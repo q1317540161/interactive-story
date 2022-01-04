@@ -14,7 +14,7 @@
 
 無聊的日子，一直到某天才終於有了改變。
 
-請點集下方連結，進入我們的故事
+請點集下方圖片，進入我們的故事
 
 [![N|Solid](https://user-images.githubusercontent.com/96431113/148043077-6cd64823-b8f1-42cb-8046-bfc9345e8275.jpg)](https://dreammmeow.blogspot.com/)
 
