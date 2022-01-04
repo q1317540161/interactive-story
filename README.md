@@ -16,5 +16,5 @@
 
 請點集下方連結，進入我們的故事
 
-[![N|Solid](https://user-images.githubusercontent.com/96431113/148043077-6cd64823-b8f1-42cb-8046-bfc9345e8275.jpg width="50%" height="50%")](https://dreammmeow.blogspot.com/)
+[![N|Solid](https://user-images.githubusercontent.com/96431113/148043077-6cd64823-b8f1-42cb-8046-bfc9345e8275.jpg)](https://dreammmeow.blogspot.com/)
 
