@@ -1,0 +1,5731 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hant-TW">
+  <siteinfo>
+    <sitename>mywiki</sitename>
+    <dbname>my_wiki</dbname>
+    <base>http://139.162.117.80/mediawiki/index.php/%E9%A6%96%E9%A0%81</base>
+    <generator>MediaWiki 1.36.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">媒體</namespace>
+      <namespace key="-1" case="first-letter">特殊</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">討論</namespace>
+      <namespace key="2" case="first-letter">使用者</namespace>
+      <namespace key="3" case="first-letter">使用者討論</namespace>
+      <namespace key="4" case="first-letter">Mywiki</namespace>
+      <namespace key="5" case="first-letter">Mywiki討論</namespace>
+      <namespace key="6" case="first-letter">檔案</namespace>
+      <namespace key="7" case="first-letter">檔案討論</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki討論</namespace>
+      <namespace key="10" case="first-letter">模板</namespace>
+      <namespace key="11" case="first-letter">模板討論</namespace>
+      <namespace key="12" case="first-letter">使用說明</namespace>
+      <namespace key="13" case="first-letter">使用說明討論</namespace>
+      <namespace key="14" case="first-letter">分類</namespace>
+      <namespace key="15" case="first-letter">分類討論</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>首頁</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1</id>
+      <timestamp>2021-10-26T05:39:43Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>2</id>
+      </contributor>
+      <origin>1</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="438" sha1="23qchyipuy1pnk9s8h0ej6i0bq3fvlo" xml:space="preserve">&lt;strong&gt;已安裝 MediaWiki。&lt;/strong&gt;
+
+請參閱 [https://meta.wikimedia.org/wiki/Help:Contents 使用者手冊] 以獲得使用此 wiki 軟體的訊息！
+
+== 入門 ==
+
+* [https://www.mediawiki.org/wiki/Manual:Configuration_settings MediaWiki 配置設定清單]
+* [https://www.mediawiki.org/wiki/Manual:FAQ MediaWiki 常見問題解答]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki 發佈郵件清單]</text>
+      <sha1>23qchyipuy1pnk9s8h0ej6i0bq3fvlo</sha1>
+    </revision>
+    <revision>
+      <id>2</id>
+      <parentid>1</parentid>
+      <timestamp>2021-11-22T06:16:22Z</timestamp>
+      <contributor>
+        <ip>140.113.136.218</ip>
+      </contributor>
+      <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="454" sha1="g5ckxkl1clfo01kqa6skws33s7m5d86" xml:space="preserve">== 淘金熱 ==
+&lt;strong&gt;已安裝 MediaWiki。&lt;/strong&gt;
+
+請參閱 [https://meta.wikimedia.org/wiki/Help:Contents 使用者手冊] 以獲得使用此 wiki 軟體的訊息！
+
+== 入門 ==
+
+* [https://www.mediawiki.org/wiki/Manual:Configuration_settings MediaWiki 配置設定清單]
+* [https://www.mediawiki.org/wiki/Manual:FAQ MediaWiki 常見問題解答]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki 發佈郵件清單]</text>
+      <sha1>g5ckxkl1clfo01kqa6skws33s7m5d86</sha1>
+    </revision>
+    <revision>
+      <id>3</id>
+      <parentid>2</parentid>
+      <timestamp>2021-11-22T06:40:55Z</timestamp>
+      <contributor>
+        <ip>140.113.136.218</ip>
+      </contributor>
+      <comment>/* 淘金熱 */</comment>
+      <origin>3</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="458" sha1="dty35lhkwwzdwxhbzsam8gcmpi2rymc" xml:space="preserve">== [[淘金熱]] ==
+&lt;strong&gt;已安裝 MediaWiki。&lt;/strong&gt;
+
+請參閱 [https://meta.wikimedia.org/wiki/Help:Contents 使用者手冊] 以獲得使用此 wiki 軟體的訊息！
+
+== 入門 ==
+
+* [https://www.mediawiki.org/wiki/Manual:Configuration_settings MediaWiki 配置設定清單]
+* [https://www.mediawiki.org/wiki/Manual:FAQ MediaWiki 常見問題解答]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki 發佈郵件清單]</text>
+      <sha1>dty35lhkwwzdwxhbzsam8gcmpi2rymc</sha1>
+    </revision>
+    <revision>
+      <id>29</id>
+      <parentid>3</parentid>
+      <timestamp>2021-11-22T11:53:44Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 淘金熱 */</comment>
+      <origin>29</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="o0sagwl61no21147nb26h87awkqnvef" xml:space="preserve">== [[淘金熱]] ==</text>
+      <sha1>o0sagwl61no21147nb26h87awkqnvef</sha1>
+    </revision>
+    <revision>
+      <id>86</id>
+      <parentid>29</parentid>
+      <timestamp>2021-12-26T10:08:08Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <origin>86</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="r60di35y482vjotqlgsv3o88sotnaec" xml:space="preserve">== [[名稱待定]] ==</text>
+      <sha1>r60di35y482vjotqlgsv3o88sotnaec</sha1>
+    </revision>
+    <revision>
+      <id>87</id>
+      <parentid>86</parentid>
+      <timestamp>2021-12-26T10:08:34Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <origin>87</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="o0sagwl61no21147nb26h87awkqnvef" xml:space="preserve">== [[淘金熱]] ==</text>
+      <sha1>o0sagwl61no21147nb26h87awkqnvef</sha1>
+    </revision>
+    <revision>
+      <id>88</id>
+      <parentid>87</parentid>
+      <timestamp>2021-12-26T10:09:14Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <comment>/* 淘金熱 */</comment>
+      <origin>88</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="4y9i9fhoaad9966z9cg0hwn82u22gnu" xml:space="preserve">== [[淘金熱|名稱待定]] ==</text>
+      <sha1>4y9i9fhoaad9966z9cg0hwn82u22gnu</sha1>
+    </revision>
+    <revision>
+      <id>89</id>
+      <parentid>88</parentid>
+      <timestamp>2021-12-26T10:12:18Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <comment>/* 名稱待定 */</comment>
+      <origin>89</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="9j1wg6nturskpbky8z1dzv5izf98ztx" xml:space="preserve">== [[淘金熱|名稱待定]] ==
+== [[名稱待定]] ==</text>
+      <sha1>9j1wg6nturskpbky8z1dzv5izf98ztx</sha1>
+    </revision>
+    <revision>
+      <id>90</id>
+      <parentid>89</parentid>
+      <timestamp>2021-12-26T10:13:14Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <comment>/* 名稱待定 */</comment>
+      <origin>90</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="gllsrjnky9464n5vkzw6dibno425wiu" xml:space="preserve">== [[淘金熱]] ==
+== [[名稱待定]] ==</text>
+      <sha1>gllsrjnky9464n5vkzw6dibno425wiu</sha1>
+    </revision>
+    <revision>
+      <id>124</id>
+      <parentid>90</parentid>
+      <timestamp>2022-01-02T17:33:41Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>124</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="r60di35y482vjotqlgsv3o88sotnaec" xml:space="preserve">== [[名稱待定]] ==</text>
+      <sha1>r60di35y482vjotqlgsv3o88sotnaec</sha1>
+    </revision>
+    <revision>
+      <id>133</id>
+      <parentid>124</parentid>
+      <timestamp>2022-01-02T18:01:13Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>133</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" sha1="diowubbxo5ufaoidyct3lz4egl8theo" xml:space="preserve">== 黃樑一貓 ==</text>
+      <sha1>diowubbxo5ufaoidyct3lz4egl8theo</sha1>
+    </revision>
+    <revision>
+      <id>134</id>
+      <parentid>133</parentid>
+      <timestamp>2022-01-02T18:01:40Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 黃樑一貓 */</comment>
+      <origin>134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="7089k2ku58cvzna39b2f8zpe3r22fan" xml:space="preserve">== [[黃樑一貓]] ==</text>
+      <sha1>7089k2ku58cvzna39b2f8zpe3r22fan</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>淘金熱</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>4</id>
+      <timestamp>2021-11-22T06:41:50Z</timestamp>
+      <contributor>
+        <ip>140.113.136.218</ip>
+      </contributor>
+      <comment>建立內容為「== 一、時空背景介紹 ==」的新頁面</comment>
+      <origin>4</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="tvdy9glpasmxc1qh7mqyzog6p6iriy5" xml:space="preserve">== 一、時空背景介紹 ==</text>
+      <sha1>tvdy9glpasmxc1qh7mqyzog6p6iriy5</sha1>
+    </revision>
+    <revision>
+      <id>5</id>
+      <parentid>4</parentid>
+      <timestamp>2021-11-22T06:43:26Z</timestamp>
+      <contributor>
+        <ip>140.113.136.218</ip>
+      </contributor>
+      <origin>5</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="486" sha1="cfywbwz1ht50m5jni43u36ls8smcned" xml:space="preserve">== 一、時空背景介紹 ==
+19世紀，美國的移工間掀起一股淘金熱，許多人為了改變現況，拋棄自身的工作投入淘金，想要藉由淘金發家致富，然而也有些人是因為貧窮，不得已離鄉背井，加入這波淘金潮。在美國的一個華人家庭，微薄的收入讓一家人難以溫飽，因此和好兄弟相約，一起前往俄勒岡淘金，想改善經濟狀況。
+
+== 二、重要類別 ==
+
+* 人物
+* 地區
+* 旅途
+* 困境</text>
+      <sha1>cfywbwz1ht50m5jni43u36ls8smcned</sha1>
+    </revision>
+    <revision>
+      <id>6</id>
+      <parentid>5</parentid>
+      <timestamp>2021-11-22T06:46:31Z</timestamp>
+      <contributor>
+        <ip>140.113.136.218</ip>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>6</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="490" sha1="ria1gwgn8r5fggqnl7ug8678a3kb8f8" xml:space="preserve">== 一、時空背景介紹 ==
+19世紀，美國的移工間掀起一股淘金熱，許多人為了改變現況，拋棄自身的工作投入淘金，想要藉由淘金發家致富，然而也有些人是因為貧窮，不得已離鄉背井，加入這波淘金潮。在美國的一個華人家庭，微薄的收入讓一家人難以溫飽，因此和好兄弟相約，一起前往俄勒岡淘金，想改善經濟狀況。
+
+== 二、重要類別 ==
+
+* [[人物]]
+* 地區
+* 旅途
+* 困境</text>
+      <sha1>ria1gwgn8r5fggqnl7ug8678a3kb8f8</sha1>
+    </revision>
+    <revision>
+      <id>7</id>
+      <parentid>6</parentid>
+      <timestamp>2021-11-22T06:47:46Z</timestamp>
+      <contributor>
+        <ip>140.113.136.218</ip>
+      </contributor>
+      <origin>7</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="486" sha1="cfywbwz1ht50m5jni43u36ls8smcned" xml:space="preserve">== 一、時空背景介紹 ==
+19世紀，美國的移工間掀起一股淘金熱，許多人為了改變現況，拋棄自身的工作投入淘金，想要藉由淘金發家致富，然而也有些人是因為貧窮，不得已離鄉背井，加入這波淘金潮。在美國的一個華人家庭，微薄的收入讓一家人難以溫飽，因此和好兄弟相約，一起前往俄勒岡淘金，想改善經濟狀況。
+
+== 二、重要類別 ==
+
+* 人物
+* 地區
+* 旅途
+* 困境</text>
+      <sha1>cfywbwz1ht50m5jni43u36ls8smcned</sha1>
+    </revision>
+    <revision>
+      <id>8</id>
+      <parentid>7</parentid>
+      <timestamp>2021-11-22T07:00:32Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>8</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="513" sha1="gvhthi4uvp29xfud2sdzh1ifn91zuvl" xml:space="preserve">== 一、時空背景介紹 ==
+19世紀，美國的移工間掀起一股淘金熱，許多人為了改變現況，拋棄自身的工作投入淘金，想要藉由淘金發家致富，然而也有些人是因為貧窮，不得已離鄉背井，加入這波淘金潮。在美國的一個華人家庭，微薄的收入讓一家人難以溫飽，因此和好兄弟相約，一起前往俄勒岡淘金，想改善經濟狀況。
+
+== 二、重要類別 ==
+
+* [[:catogory:重要類別|人物]]
+* 地區
+* 旅途
+* 困境</text>
+      <sha1>gvhthi4uvp29xfud2sdzh1ifn91zuvl</sha1>
+    </revision>
+    <revision>
+      <id>9</id>
+      <parentid>8</parentid>
+      <timestamp>2021-11-22T07:01:33Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>9</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="486" sha1="cfywbwz1ht50m5jni43u36ls8smcned" xml:space="preserve">== 一、時空背景介紹 ==
+19世紀，美國的移工間掀起一股淘金熱，許多人為了改變現況，拋棄自身的工作投入淘金，想要藉由淘金發家致富，然而也有些人是因為貧窮，不得已離鄉背井，加入這波淘金潮。在美國的一個華人家庭，微薄的收入讓一家人難以溫飽，因此和好兄弟相約，一起前往俄勒岡淘金，想改善經濟狀況。
+
+== 二、重要類別 ==
+
+* 人物
+* 地區
+* 旅途
+* 困境</text>
+      <sha1>cfywbwz1ht50m5jni43u36ls8smcned</sha1>
+    </revision>
+    <revision>
+      <id>10</id>
+      <parentid>9</parentid>
+      <timestamp>2021-11-22T10:05:44Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>10</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="505" sha1="p818egh64ejug5say9gnryol0vvyf4t" xml:space="preserve">== 一、時空背景介紹 ==
+19世紀，美國的移工間掀起一股淘金熱，許多人為了改變現況，拋棄自身的工作投入淘金，想要藉由淘金發家致富，然而也有些人是因為貧窮，不得已離鄉背井，加入這波淘金潮。在美國的一個華人家庭，微薄的收入讓一家人難以溫飽，因此和好兄弟相約，一起前往俄勒岡淘金，想改善經濟狀況。
+
+== 二、重要類別 ==
+
+* [[:分類:人物|人物]]
+* 地區
+* 旅途
+* 困境</text>
+      <sha1>p818egh64ejug5say9gnryol0vvyf4t</sha1>
+    </revision>
+    <revision>
+      <id>12</id>
+      <parentid>10</parentid>
+      <timestamp>2021-11-22T10:26:57Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>12</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="524" sha1="4mrdgk3vu3c0dlh2xccwjsi5yeme6wi" xml:space="preserve">== 一、時空背景介紹 ==
+19世紀，美國的移工間掀起一股淘金熱，許多人為了改變現況，拋棄自身的工作投入淘金，想要藉由淘金發家致富，然而也有些人是因為貧窮，不得已離鄉背井，加入這波淘金潮。在美國的一個華人家庭，微薄的收入讓一家人難以溫飽，因此和好兄弟相約，一起前往俄勒岡淘金，想改善經濟狀況。
+
+== 二、重要類別 ==
+
+* [[:分類:人物|人物]]
+* [[:分類:地區|地區]]
+* 旅途
+* 困境</text>
+      <sha1>4mrdgk3vu3c0dlh2xccwjsi5yeme6wi</sha1>
+    </revision>
+    <revision>
+      <id>14</id>
+      <parentid>12</parentid>
+      <timestamp>2021-11-22T11:11:35Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>14</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="543" sha1="5s5wx9dhwcgm8ug15hi9sy0f2f30w3t" xml:space="preserve">== 一、時空背景介紹 ==
+19世紀，美國的移工間掀起一股淘金熱，許多人為了改變現況，拋棄自身的工作投入淘金，想要藉由淘金發家致富，然而也有些人是因為貧窮，不得已離鄉背井，加入這波淘金潮。在美國的一個華人家庭，微薄的收入讓一家人難以溫飽，因此和好兄弟相約，一起前往俄勒岡淘金，想改善經濟狀況。
+
+== 二、重要類別 ==
+
+* [[:分類:人物|人物]]
+* [[:分類:地區|地區]]
+* [[:分類:旅途|旅途]]
+* 困境</text>
+      <sha1>5s5wx9dhwcgm8ug15hi9sy0f2f30w3t</sha1>
+    </revision>
+    <revision>
+      <id>15</id>
+      <parentid>14</parentid>
+      <timestamp>2021-11-22T11:14:53Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>15</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="562" sha1="a0016gp64tzsu1giuhd565ygx026dxu" xml:space="preserve">== 一、時空背景介紹 ==
+19世紀，美國的移工間掀起一股淘金熱，許多人為了改變現況，拋棄自身的工作投入淘金，想要藉由淘金發家致富，然而也有些人是因為貧窮，不得已離鄉背井，加入這波淘金潮。在美國的一個華人家庭，微薄的收入讓一家人難以溫飽，因此和好兄弟相約，一起前往俄勒岡淘金，想改善經濟狀況。
+
+== 二、重要類別 ==
+
+* [[:分類:人物|人物]]
+* [[:分類:地區|地區]]
+* [[:分類:旅途|旅途]]
+* [[:分類:困境|困境]]</text>
+      <sha1>a0016gp64tzsu1giuhd565ygx026dxu</sha1>
+    </revision>
+    <revision>
+      <id>21</id>
+      <parentid>15</parentid>
+      <timestamp>2021-11-22T11:39:07Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>21</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="561" sha1="6kcemeq8e275koreb0qycoli24972v6" xml:space="preserve">== 一、時空背景介紹 ==
+19世紀，美國的移工間掀起一股淘金熱，許多人為了改變現況，拋棄自身的工作投入淘金，想要藉由淘金發家致富，然而也有些人是因為貧窮，不得已離鄉背井，加入這波淘金潮。在美國的一個華人家庭，微薄的收入讓一家人難以溫飽，因此和好兄弟相約，一起前往俄勒岡淘金，想改善經濟狀況。
+
+== 二、重要類別 ==
+
+* [[:分類:人物|人物]]
+* [[:分類:地區|地區]]
+*[[:分類:旅途|旅途]]
+* [[:分類:困境|困境]]</text>
+      <sha1>6kcemeq8e275koreb0qycoli24972v6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>分類:人物</title>
+    <ns>14</ns>
+    <id>3</id>
+    <revision>
+      <id>11</id>
+      <timestamp>2021-11-22T10:14:20Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 劉翰一家人 ===  * 劉翰 * 劉姜心 * 劉欣 * 劉易 * 大黃  === 劉好多一家人 ===  * 劉莊如靜 * 劉嫻  === 淘金者/ Fred 一家人 ===…」的新頁面</comment>
+      <origin>11</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="cjqkgafuwy1wp29p7p4osii70ww8qdt" xml:space="preserve">=== 劉翰一家人 ===
+
+* 劉翰
+* 劉姜心
+* 劉欣
+* 劉易
+* 大黃
+
+=== 劉好多一家人 ===
+
+* 劉莊如靜
+* 劉嫻
+
+=== 淘金者/ Fred 一家人 ===
+
+* Fred
+* Mary</text>
+      <sha1>cjqkgafuwy1wp29p7p4osii70ww8qdt</sha1>
+    </revision>
+    <revision>
+      <id>30</id>
+      <parentid>11</parentid>
+      <timestamp>2021-11-22T11:54:44Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 劉翰一家人 */</comment>
+      <origin>30</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="9e6vr2fiy19q1rj3mtexzunj58wo7q8" xml:space="preserve">=== 劉翰一家人 ===
+
+* [[劉翰]]
+* [[劉姜心]]
+* [[劉欣]]
+* [[劉易]]
+* [[大黃]]
+
+=== 劉好多一家人 ===
+
+* [[劉好多]]
+*[[劉莊如靜]]
+* [[劉嫻]]
+
+=== 淘金者/ Fred 一家人 ===
+
+* [[Fred]]
+* [[Mary]]</text>
+      <sha1>9e6vr2fiy19q1rj3mtexzunj58wo7q8</sha1>
+    </revision>
+    <revision>
+      <id>84</id>
+      <parentid>30</parentid>
+      <timestamp>2021-11-25T07:37:03Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 淘金者/ Fred 一家人 */</comment>
+      <origin>84</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" sha1="k4p8o0vtkuibb4yq1mmshp7g0oupyn2" xml:space="preserve">=== 劉翰一家人 ===
+
+* [[劉翰]]
+* [[劉姜心]]
+* [[劉欣]]
+* [[劉易]]
+* [[大黃]]
+
+=== 劉好多一家人 ===
+
+* [[劉好多]]
+*[[劉莊如靜]]
+* [[劉嫻]]
+
+=== Fred 一家人 ===
+
+* [[Fred]]
+* [[Mary]]</text>
+      <sha1>k4p8o0vtkuibb4yq1mmshp7g0oupyn2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>分類:地區</title>
+    <ns>14</ns>
+    <id>4</id>
+    <revision>
+      <id>13</id>
+      <timestamp>2021-11-22T11:10:29Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「[[西雅圖]]  [[俄勒岡]]  [[芝加哥]]」的新頁面</comment>
+      <origin>13</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" sha1="r0cz1n85lyggr9r4m7s2ey4w6yqf039" xml:space="preserve">[[西雅圖]]
+
+[[俄勒岡]]
+
+[[芝加哥]]</text>
+      <sha1>r0cz1n85lyggr9r4m7s2ey4w6yqf039</sha1>
+    </revision>
+    <revision>
+      <id>51</id>
+      <parentid>13</parentid>
+      <timestamp>2021-11-22T12:40:31Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>51</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="49" sha1="cr5igewdirqv9toldskkm2jjlxcnb1h" xml:space="preserve">* [[西雅圖]]
+
+* [[俄勒岡]]
+
+* [[芝加哥]]</text>
+      <sha1>cr5igewdirqv9toldskkm2jjlxcnb1h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>分類:旅途</title>
+    <ns>14</ns>
+    <id>5</id>
+    <revision>
+      <id>16</id>
+      <timestamp>2021-11-22T11:23:30Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「劉翰/劉好多旅程  Fred/Mary旅程」的新頁面</comment>
+      <origin>16</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" sha1="7ufb1mc50qhrfgok2wftuekl2hxbpnj" xml:space="preserve">劉翰/劉好多旅程
+
+Fred/Mary旅程</text>
+      <sha1>7ufb1mc50qhrfgok2wftuekl2hxbpnj</sha1>
+    </revision>
+    <revision>
+      <id>17</id>
+      <parentid>16</parentid>
+      <timestamp>2021-11-22T11:31:09Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>17</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="azjvgwvto0ej5nkjzq4a92ecucax7cq" xml:space="preserve">[[劉翰/劉好多旅程]]
+
+[[Fred/Mary旅程]]</text>
+      <sha1>azjvgwvto0ej5nkjzq4a92ecucax7cq</sha1>
+    </revision>
+    <revision>
+      <id>22</id>
+      <parentid>17</parentid>
+      <timestamp>2021-11-22T11:39:41Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>清空全部內容</comment>
+      <origin>22</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+    <revision>
+      <id>23</id>
+      <parentid>22</parentid>
+      <timestamp>2021-11-22T11:40:23Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>23</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" sha1="1ddpd0bo66aqqcmest156mpq61t6xru" xml:space="preserve">劉翰與劉好多旅程
+
+Fred和Mary旅程</text>
+      <sha1>1ddpd0bo66aqqcmest156mpq61t6xru</sha1>
+    </revision>
+    <revision>
+      <id>24</id>
+      <parentid>23</parentid>
+      <timestamp>2021-11-22T11:40:31Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>24</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="7ntb5szh420ozrhy6tkjwzibxrklh67" xml:space="preserve">[[劉翰與劉好多旅程]]
+
+Fred和Mary旅程</text>
+      <sha1>7ntb5szh420ozrhy6tkjwzibxrklh67</sha1>
+    </revision>
+    <revision>
+      <id>27</id>
+      <parentid>24</parentid>
+      <timestamp>2021-11-22T11:51:37Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>27</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="51" sha1="9ud8pry4j6ccn2ahbzsbnu5ai4stqtc" xml:space="preserve">[[劉翰與劉好多旅程]]
+
+[[Fred和Mary旅程]]</text>
+      <sha1>9ud8pry4j6ccn2ahbzsbnu5ai4stqtc</sha1>
+    </revision>
+    <revision>
+      <id>52</id>
+      <parentid>27</parentid>
+      <timestamp>2021-11-22T12:40:44Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>52</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="g2c4wmkqish0417fu8gbsx2qgpfkngh" xml:space="preserve">* [[劉翰與劉好多旅程]]
+
+* [[Fred和Mary旅程]]</text>
+      <sha1>g2c4wmkqish0417fu8gbsx2qgpfkngh</sha1>
+    </revision>
+    <revision>
+      <id>74</id>
+      <parentid>52</parentid>
+      <timestamp>2021-11-25T04:11:36Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>74</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="kdg9zkp1uhjyqoqqi17cxl40n35vve6" xml:space="preserve">* [[劉翰與劉好多旅程|劉翰與劉好多旅途]]
+
+* [[Fred和Mary旅程|Fred和Mary旅途]]</text>
+      <sha1>kdg9zkp1uhjyqoqqi17cxl40n35vve6</sha1>
+    </revision>
+    <revision>
+      <id>75</id>
+      <parentid>74</parentid>
+      <timestamp>2021-11-25T04:12:41Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>75</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="73" sha1="7ff1o48wl9pwzostil0ph1ea1mpoawd" xml:space="preserve">* [[劉翰與劉好多旅程]]
+
+* [[Fred和Mary旅程|Fred和Mary旅途]]</text>
+      <sha1>7ff1o48wl9pwzostil0ph1ea1mpoawd</sha1>
+    </revision>
+    <revision>
+      <id>76</id>
+      <parentid>75</parentid>
+      <timestamp>2021-11-25T04:12:47Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>76</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="g2c4wmkqish0417fu8gbsx2qgpfkngh" xml:space="preserve">* [[劉翰與劉好多旅程]]
+
+* [[Fred和Mary旅程]]</text>
+      <sha1>g2c4wmkqish0417fu8gbsx2qgpfkngh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>西雅圖</title>
+    <ns>0</ns>
+    <id>6</id>
+    <revision>
+      <id>18</id>
+      <timestamp>2021-11-22T11:35:38Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「位於美國西岸，港口城市，因此許多華人移民至此。」的新頁面</comment>
+      <origin>18</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="69" sha1="4v2w9wbkkt3lza1bshznfmq0bbkh8vg" xml:space="preserve">位於美國西岸，港口城市，因此許多華人移民至此。</text>
+      <sha1>4v2w9wbkkt3lza1bshznfmq0bbkh8vg</sha1>
+    </revision>
+    <revision>
+      <id>69</id>
+      <parentid>18</parentid>
+      <timestamp>2021-11-25T04:02:20Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>69</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="87" sha1="n4mk6k6gdzjzytj4lt6w8h98pc878qn" xml:space="preserve">位於美國西岸，港口城市，因此許多華人移民至此。
+[[分類:地區]]</text>
+      <sha1>n4mk6k6gdzjzytj4lt6w8h98pc878qn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>俄勒岡</title>
+    <ns>0</ns>
+    <id>7</id>
+    <revision>
+      <id>19</id>
+      <timestamp>2021-11-22T11:35:58Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「美國淘金潮其中一個地區。」的新頁面</comment>
+      <origin>19</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="4vfb32ocmrwaq5jgnttw5w1x0puksax" xml:space="preserve">美國淘金潮其中一個地區。</text>
+      <sha1>4vfb32ocmrwaq5jgnttw5w1x0puksax</sha1>
+    </revision>
+    <revision>
+      <id>70</id>
+      <parentid>19</parentid>
+      <timestamp>2021-11-25T04:02:34Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>70</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54" sha1="rd7clfkycm5powow6as5bg3olithut0" xml:space="preserve">美國淘金潮其中一個地區。
+[[分類:地區]]</text>
+      <sha1>rd7clfkycm5powow6as5bg3olithut0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>芝加哥</title>
+    <ns>0</ns>
+    <id>8</id>
+    <revision>
+      <id>20</id>
+      <timestamp>2021-11-22T11:36:15Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「當時工業開始發展的重點區域。」的新頁面</comment>
+      <origin>20</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="amcm7erjd7934mc6o966dot8xa7gq4z" xml:space="preserve">當時工業開始發展的重點區域。</text>
+      <sha1>amcm7erjd7934mc6o966dot8xa7gq4z</sha1>
+    </revision>
+    <revision>
+      <id>71</id>
+      <parentid>20</parentid>
+      <timestamp>2021-11-25T04:02:50Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>71</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="4kqo2l44x5x87nb8e498ib9nsyn93j2" xml:space="preserve">當時工業開始發展的重點區域。
+[[分類:地區]]</text>
+      <sha1>4kqo2l44x5x87nb8e498ib9nsyn93j2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>劉翰與劉好多旅程</title>
+    <ns>0</ns>
+    <id>9</id>
+    <revision>
+      <id>25</id>
+      <timestamp>2021-11-22T11:40:39Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「季節」的新頁面</comment>
+      <origin>25</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6" sha1="l6rw6sfn8daqpjot32ma196f7c88gow" xml:space="preserve">季節</text>
+      <sha1>l6rw6sfn8daqpjot32ma196f7c88gow</sha1>
+    </revision>
+    <revision>
+      <id>26</id>
+      <parentid>25</parentid>
+      <timestamp>2021-11-22T11:41:33Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>26</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="385" sha1="bmb4ubft9eprttljkimgc8a8sqmnog8" xml:space="preserve">=== 季節 ===
+秋天出發，冬天到，希望能避免遇到過多的淘金者，相互搶奪。
+
+=== 路線 ===
+西雅圖-俄勒岡，途中經過現今的 Gifford Pinchot National Forest，有大量原始森林、高山草原、若干冰川及數個火山口，因此路途險峻，困難重重。
+
+=== 路途時長 ===
+600公里，徒步約2個月
+
+=== 淘金時長 ===
+1-2個月</text>
+      <sha1>bmb4ubft9eprttljkimgc8a8sqmnog8</sha1>
+    </revision>
+    <revision>
+      <id>72</id>
+      <parentid>26</parentid>
+      <timestamp>2021-11-25T04:03:16Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>72</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="403" sha1="4efvg8cxbxis68wuq55egcdsk38zpi7" xml:space="preserve">=== 季節 ===
+秋天出發，冬天到，希望能避免遇到過多的淘金者，相互搶奪。
+
+=== 路線 ===
+西雅圖-俄勒岡，途中經過現今的 Gifford Pinchot National Forest，有大量原始森林、高山草原、若干冰川及數個火山口，因此路途險峻，困難重重。
+
+=== 路途時長 ===
+600公里，徒步約2個月
+
+=== 淘金時長 ===
+1-2個月
+[[分類:旅途]]</text>
+      <sha1>4efvg8cxbxis68wuq55egcdsk38zpi7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fred和Mary旅程</title>
+    <ns>0</ns>
+    <id>10</id>
+    <revision>
+      <id>28</id>
+      <timestamp>2021-11-22T11:53:00Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 季節 === 春夏出發，冬天到  === 路線 === 芝加哥-俄勒岡，途中經美國大平原  === 路途時長 === 2000公里，徒步約7-8個月  ===…」的新頁面</comment>
+      <origin>28</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="188" sha1="fkv15acbbwzlzocybf5u67ge7ehpwzx" xml:space="preserve">=== 季節 ===
+春夏出發，冬天到
+
+=== 路線 ===
+芝加哥-俄勒岡，途中經美國大平原
+
+=== 路途時長 ===
+2000公里，徒步約7-8個月
+
+=== 淘金時長 ===
+2-3個月</text>
+      <sha1>fkv15acbbwzlzocybf5u67ge7ehpwzx</sha1>
+    </revision>
+    <revision>
+      <id>73</id>
+      <parentid>28</parentid>
+      <timestamp>2021-11-25T04:04:03Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>73</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="206" sha1="hnawndy4l3xjg84tv1d6pegcqkxqeav" xml:space="preserve">=== 季節 ===
+春夏出發，冬天到
+
+=== 路線 ===
+芝加哥-俄勒岡，途中經美國大平原
+
+=== 路途時長 ===
+2000公里，徒步約7-8個月
+
+=== 淘金時長 ===
+2-3個月
+[[分類:旅途]]</text>
+      <sha1>hnawndy4l3xjg84tv1d6pegcqkxqeav</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>劉翰</title>
+    <ns>0</ns>
+    <id>11</id>
+    <revision>
+      <id>31</id>
+      <timestamp>2021-11-22T11:57:07Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「====== 性別: 男 ======  ====== 年齡: 30 ======  ====== 伴侶:劉姜心 ======  ====== 居住地:西雅圖 ======  === 人物簡述 === 在西雅圖出生，…」的新頁面</comment>
+      <origin>31</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="447" sha1="agwu04s4uc52hc5udto6d7onycgqchv" xml:space="preserve">====== 性別: 男 ======
+
+====== 年齡: 30 ======
+
+====== 伴侶:劉姜心 ======
+
+====== 居住地:西雅圖 ======
+
+=== 人物簡述 ===
+在西雅圖出生，從小跟著父親在港口做搬運工，因為薪水微薄，除了搬運工之外還會去蓋鐵路打零工，貼補家用。性格節儉，多與人為善，但因為華人的身分，遭受過他人的冷眼相看、也看過人與人間的金錢糾紛，深諳現實的殘酷。</text>
+      <sha1>agwu04s4uc52hc5udto6d7onycgqchv</sha1>
+    </revision>
+    <revision>
+      <id>32</id>
+      <parentid>31</parentid>
+      <timestamp>2021-11-22T11:58:11Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>32</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="414" sha1="1zegife1t5xkn6cmaasresyj19rqs7p" xml:space="preserve">=== 人物簡述 ===
+在西雅圖出生，從小跟著父親在港口做搬運工，因為薪水微薄，除了搬運工之外還會去蓋鐵路打零工，貼補家用。性格節儉，多與人為善，但因為華人的身分，遭受過他人的冷眼相看、也看過人與人間的金錢糾紛，深諳現實的殘酷。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 30
+
+伴侶: 劉姜心
+
+居住地: 西雅圖</text>
+      <sha1>1zegife1t5xkn6cmaasresyj19rqs7p</sha1>
+    </revision>
+    <revision>
+      <id>49</id>
+      <parentid>32</parentid>
+      <timestamp>2021-11-22T12:31:24Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>49</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="418" sha1="sv8ufcgsu2issvv1or8qz8m656whqbg" xml:space="preserve">=== 人物簡述 ===
+在西雅圖出生，從小跟著父親在港口做搬運工，因為薪水微薄，除了搬運工之外還會去蓋鐵路打零工，貼補家用。性格節儉，多與人為善，但因為華人的身分，遭受過他人的冷眼相看、也看過人與人間的金錢糾紛，深諳現實的殘酷。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 30
+
+伴侶: [[劉姜心]]
+
+居住地: 西雅圖</text>
+      <sha1>sv8ufcgsu2issvv1or8qz8m656whqbg</sha1>
+    </revision>
+    <revision>
+      <id>63</id>
+      <parentid>49</parentid>
+      <timestamp>2021-11-25T04:00:20Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>63</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="436" sha1="5zf3ht4f5iofvmyivi44mbdavmqjfg5" xml:space="preserve">=== 人物簡述 ===
+在西雅圖出生，從小跟著父親在港口做搬運工，因為薪水微薄，除了搬運工之外還會去蓋鐵路打零工，貼補家用。性格節儉，多與人為善，但因為華人的身分，遭受過他人的冷眼相看、也看過人與人間的金錢糾紛，深諳現實的殘酷。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 30
+
+伴侶: [[劉姜心]]
+
+居住地: 西雅圖
+[[分類:人物]]</text>
+      <sha1>5zf3ht4f5iofvmyivi44mbdavmqjfg5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>劉姜心</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>33</id>
+      <timestamp>2021-11-22T11:59:39Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 人物簡述 === 身形瘦弱，性格堅毅，與劉翰結婚後兼職多份工作，獨自一人帶著雙胞胎兒女做洗碗工、定時到富人家打掃…」的新頁面</comment>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="cqc6ioswh8i1l81qpdxjbfvxs4yiu6o" xml:space="preserve">=== 人物簡述 ===
+身形瘦弱，性格堅毅，與劉翰結婚後兼職多份工作，獨自一人帶著雙胞胎兒女做洗碗工、定時到富人家打掃。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 28
+
+伴侶: 劉翰
+
+居住地: 西雅圖</text>
+      <sha1>cqc6ioswh8i1l81qpdxjbfvxs4yiu6o</sha1>
+    </revision>
+    <revision>
+      <id>50</id>
+      <parentid>33</parentid>
+      <timestamp>2021-11-22T12:31:33Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>50</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="6dwdj7u59a04jq5ta3tulbnf5wegn7d" xml:space="preserve">=== 人物簡述 ===
+身形瘦弱，性格堅毅，與劉翰結婚後兼職多份工作，獨自一人帶著雙胞胎兒女做洗碗工、定時到富人家打掃。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 28
+
+伴侶: [[劉翰]]
+
+居住地: 西雅圖</text>
+      <sha1>6dwdj7u59a04jq5ta3tulbnf5wegn7d</sha1>
+    </revision>
+    <revision>
+      <id>62</id>
+      <parentid>50</parentid>
+      <timestamp>2021-11-25T04:00:05Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>62</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="271" sha1="2nwzcqk932sprj4r95py6dp3q4duk5y" xml:space="preserve">=== 人物簡述 ===
+身形瘦弱，性格堅毅，與劉翰結婚後兼職多份工作，獨自一人帶著雙胞胎兒女做洗碗工、定時到富人家打掃。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 28
+
+伴侶: [[劉翰]]
+
+居住地: 西雅圖
+[[分類:人物]]</text>
+      <sha1>2nwzcqk932sprj4r95py6dp3q4duk5y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>劉欣</title>
+    <ns>0</ns>
+    <id>13</id>
+    <revision>
+      <id>34</id>
+      <timestamp>2021-11-22T12:01:40Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 人物簡述 === 劉翰與劉姜心所生下的雙胞胎兒女，劉欣是雙胞胎的姊姊。  === 後設資料 === 性別: 女  年齡: 2  伴侶: 無  居…」的新頁面</comment>
+      <origin>34</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="179" sha1="dxzjnva8lnx3x8wvz3ywmw40lkbos1g" xml:space="preserve">=== 人物簡述 ===
+劉翰與劉姜心所生下的雙胞胎兒女，劉欣是雙胞胎的姊姊。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 2
+
+伴侶: 無
+
+居住地: 西雅圖</text>
+      <sha1>dxzjnva8lnx3x8wvz3ywmw40lkbos1g</sha1>
+    </revision>
+    <revision>
+      <id>61</id>
+      <parentid>34</parentid>
+      <timestamp>2021-11-25T03:59:47Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>61</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="eggfzuur8zd1dpu2ccaq42ler7290q3" xml:space="preserve">=== 人物簡述 ===
+劉翰與劉姜心所生下的雙胞胎兒女，劉欣是雙胞胎的姊姊。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 2
+
+伴侶: 無
+
+居住地: 西雅圖
+[[分類:人物]]</text>
+      <sha1>eggfzuur8zd1dpu2ccaq42ler7290q3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>劉易</title>
+    <ns>0</ns>
+    <id>14</id>
+    <revision>
+      <id>35</id>
+      <timestamp>2021-11-22T12:02:38Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 人物簡述 === 劉翰和劉姜心所生下的雙胞胎兒女，劉易為雙胞胎中的弟弟。  === 後設資料 === 性別: 男  年齡: 2  伴侶: 無…」的新頁面</comment>
+      <origin>35</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="182" sha1="rzm4su9y7sp5kd4gvqm7ws1m2xoz1tp" xml:space="preserve">=== 人物簡述 ===
+劉翰和劉姜心所生下的雙胞胎兒女，劉易為雙胞胎中的弟弟。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 2
+
+伴侶: 無
+
+居住地: 西雅圖</text>
+      <sha1>rzm4su9y7sp5kd4gvqm7ws1m2xoz1tp</sha1>
+    </revision>
+    <revision>
+      <id>60</id>
+      <parentid>35</parentid>
+      <timestamp>2021-11-25T03:59:26Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>60</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="os5otnn4buvs99ponqezh030qqyoz7k" xml:space="preserve">=== 人物簡述 ===
+劉翰和劉姜心所生下的雙胞胎兒女，劉易為雙胞胎中的弟弟。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 2
+
+伴侶: 無
+
+居住地: 西雅圖
+[[分類:人物]]</text>
+      <sha1>os5otnn4buvs99ponqezh030qqyoz7k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>大黃</title>
+    <ns>0</ns>
+    <id>15</id>
+    <revision>
+      <id>36</id>
+      <timestamp>2021-11-22T12:03:18Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 人物簡述 === 隔壁人家送來的狗，和雙胞胎同時出生，劉翰看著覺得可愛、能陪著孩子長大便收養了，劉翰淘金時也帶上…」的新頁面</comment>
+      <origin>36</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="b29kzi62muc3bv34grd9wreofen8nqo" xml:space="preserve">=== 人物簡述 ===
+隔壁人家送來的狗，和雙胞胎同時出生，劉翰看著覺得可愛、能陪著孩子長大便收養了，劉翰淘金時也帶上了牠。
+
+=== 後設資料 ===
+性別: 公
+
+年齡: 2
+
+伴侶: 無
+
+居住地: 西雅圖</text>
+      <sha1>b29kzi62muc3bv34grd9wreofen8nqo</sha1>
+    </revision>
+    <revision>
+      <id>58</id>
+      <parentid>36</parentid>
+      <timestamp>2021-11-25T03:56:48Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>58</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="c5ln6a8xtoknsb119r1oon59rda3uqs" xml:space="preserve">=== 人物簡述 ===
+[[檔案:大黃.jpg|縮圖|301x301像素]]
+隔壁人家送來的狗，和雙胞胎同時出生，劉翰看著覺得可愛、能陪著孩子長大便收養了，劉翰淘金時也帶上了牠。
+
+=== 後設資料 ===
+性別: 公
+
+年齡: 2
+
+伴侶: 無
+
+居住地: 西雅圖</text>
+      <sha1>c5ln6a8xtoknsb119r1oon59rda3uqs</sha1>
+    </revision>
+    <revision>
+      <id>59</id>
+      <parentid>58</parentid>
+      <timestamp>2021-11-25T03:59:08Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>59</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="dsg0c9zbdet2sub32koq1c233hg18rz" xml:space="preserve">=== 人物簡述 ===
+[[檔案:大黃.jpg|縮圖|301x301像素]]
+隔壁人家送來的狗，和雙胞胎同時出生，劉翰看著覺得可愛、能陪著孩子長大便收養了，劉翰淘金時也帶上了牠。
+
+=== 後設資料 ===
+性別: 公
+
+年齡: 2
+
+伴侶: 無
+
+居住地: 西雅圖
+[[分類:人物]]</text>
+      <sha1>dsg0c9zbdet2sub32koq1c233hg18rz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>劉好多</title>
+    <ns>0</ns>
+    <id>16</id>
+    <revision>
+      <id>37</id>
+      <timestamp>2021-11-22T12:05:33Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 人物簡述 === 和劉翰是一同長大的好友，背景和劉翰相似，也四處打零工攢錢，情感細膩。  === 後設資料 === 性別: 男  年…」的新頁面</comment>
+      <origin>37</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="213" sha1="j46y2vb1gbon0eh5uaune32jpry1itv" xml:space="preserve">=== 人物簡述 ===
+和劉翰是一同長大的好友，背景和劉翰相似，也四處打零工攢錢，情感細膩。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 32
+
+伴侶: 劉莊如靜
+
+居住地: 西雅圖</text>
+      <sha1>j46y2vb1gbon0eh5uaune32jpry1itv</sha1>
+    </revision>
+    <revision>
+      <id>48</id>
+      <parentid>37</parentid>
+      <timestamp>2021-11-22T12:31:08Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>48</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="pxkn3m5rv3hlf0b0k38dqkcilwuat8b" xml:space="preserve">=== 人物簡述 ===
+和劉翰是一同長大的好友，背景和劉翰相似，也四處打零工攢錢，情感細膩。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 32
+
+伴侶: [[劉莊如靜]]
+
+居住地: 西雅圖</text>
+      <sha1>pxkn3m5rv3hlf0b0k38dqkcilwuat8b</sha1>
+    </revision>
+    <revision>
+      <id>64</id>
+      <parentid>48</parentid>
+      <timestamp>2021-11-25T04:00:38Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>64</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="dcfkngtrij70mejmi7ynthpmlzh6e85" xml:space="preserve">=== 人物簡述 ===
+和劉翰是一同長大的好友，背景和劉翰相似，也四處打零工攢錢，情感細膩。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 32
+
+伴侶: [[劉莊如靜]]
+
+居住地: 西雅圖
+[[分類:人物]]</text>
+      <sha1>dcfkngtrij70mejmi7ynthpmlzh6e85</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>分類:困境</title>
+    <ns>14</ns>
+    <id>17</id>
+    <revision>
+      <id>38</id>
+      <timestamp>2021-11-22T12:17:41Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「[[自然災害]]  [[人為困境]]」的新頁面</comment>
+      <origin>38</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="kt491w5nzcadd7pu5zpsm9ev07ycunx" xml:space="preserve">[[自然災害]]
+
+[[人為困境]]</text>
+      <sha1>kt491w5nzcadd7pu5zpsm9ev07ycunx</sha1>
+    </revision>
+    <revision>
+      <id>53</id>
+      <parentid>38</parentid>
+      <timestamp>2021-11-22T12:42:21Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>53</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="38" sha1="7xwv5b7fyufqo0zg4fbe73ipen2ytie" xml:space="preserve">* [[自然災害]]
+
+* [[人為困境]]</text>
+      <sha1>7xwv5b7fyufqo0zg4fbe73ipen2ytie</sha1>
+    </revision>
+    <revision>
+      <id>54</id>
+      <parentid>53</parentid>
+      <timestamp>2021-11-22T12:46:47Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>54</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="113" sha1="pw70vqhlz0jd9ubj6mhk25vm3d7otxk" xml:space="preserve">=== 自然災害 ===
+
+* 暴風雨
+* 龍捲風
+* 土石流
+
+=== 人為困境 ===
+
+* 其他淘金者
+* 糧食不足</text>
+      <sha1>pw70vqhlz0jd9ubj6mhk25vm3d7otxk</sha1>
+    </revision>
+    <revision>
+      <id>55</id>
+      <parentid>54</parentid>
+      <timestamp>2021-11-22T12:47:26Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>55</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="119" sha1="o4chq0numr2u8lke2hh6iz3cowk90pu" xml:space="preserve">=== 自然災害 ===
+
+* 暴風雨
+* 龍捲風
+* 土石流
+
+=== 人為困境 ===
+
+* 其他淘金者掠奪
+* 糧食不足</text>
+      <sha1>o4chq0numr2u8lke2hh6iz3cowk90pu</sha1>
+    </revision>
+    <revision>
+      <id>77</id>
+      <parentid>55</parentid>
+      <timestamp>2021-11-25T04:13:34Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>77</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="116" sha1="27umeacily4a0bjo0c26zta2gtqt5ic" xml:space="preserve">=== 自然災害 ===
+
+* 暴風雨
+* 龍捲風
+* 土石流
+
+=== 人為困境 ===
+
+* 淘金者的威脅
+* 糧食不足</text>
+      <sha1>27umeacily4a0bjo0c26zta2gtqt5ic</sha1>
+    </revision>
+    <revision>
+      <id>78</id>
+      <parentid>77</parentid>
+      <timestamp>2021-11-25T04:14:11Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>78</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="136" sha1="85zckj55v6y3l2rc49p3wga1qb2pioj" xml:space="preserve">=== 自然災害 ===
+
+* [[暴風雨]]
+* [[龍捲風]]
+* [[土石流]]
+
+=== 人為困境 ===
+
+* [[淘金者的威脅]]
+* [[糧食不足]]</text>
+      <sha1>85zckj55v6y3l2rc49p3wga1qb2pioj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>劉莊如靜</title>
+    <ns>0</ns>
+    <id>18</id>
+    <revision>
+      <id>39</id>
+      <timestamp>2021-11-22T12:18:56Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 人物簡述 ===  === 後設資料 === 性別: 女  年齡: 32  伴侶: 劉莊如靜  居住地: 西雅圖」的新頁面</comment>
+      <origin>39</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="110" sha1="0xldmdpg83ftxpouk6kzbrfj66g508p" xml:space="preserve">=== 人物簡述 ===
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 32
+
+伴侶: 劉莊如靜
+
+居住地: 西雅圖</text>
+      <sha1>0xldmdpg83ftxpouk6kzbrfj66g508p</sha1>
+    </revision>
+    <revision>
+      <id>40</id>
+      <parentid>39</parentid>
+      <timestamp>2021-11-22T12:22:01Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 人物簡述 */</comment>
+      <origin>40</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" sha1="nirg8cbkjprexlxt3haqxf9pcpqv8pa" xml:space="preserve">=== 人物簡述 ===
+年輕時孤身來到美國，後與劉好多相識並結為連理，性格溫柔。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 32
+
+伴侶: 劉莊如靜
+
+居住地: 西雅圖</text>
+      <sha1>nirg8cbkjprexlxt3haqxf9pcpqv8pa</sha1>
+    </revision>
+    <revision>
+      <id>41</id>
+      <parentid>40</parentid>
+      <timestamp>2021-11-22T12:22:17Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 人物簡述 */</comment>
+      <origin>41</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="bnbu5mn4jqlq98c61b9krqbk9vdslnf" xml:space="preserve">=== 人物簡述 ===
+年輕時孤身來到美國，後與劉好多相識並結婚，性格溫柔。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 32
+
+伴侶: 劉莊如靜
+
+居住地: 西雅圖</text>
+      <sha1>bnbu5mn4jqlq98c61b9krqbk9vdslnf</sha1>
+    </revision>
+    <revision>
+      <id>47</id>
+      <parentid>41</parentid>
+      <timestamp>2021-11-22T12:30:55Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 人物簡述 */</comment>
+      <origin>47</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="190" sha1="6uvparsuwacrlzrf04i3t52em1pnb6a" xml:space="preserve">=== 人物簡述 ===
+年輕時孤身來到美國，後與劉好多相識並結婚，性格溫柔。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 32
+
+伴侶: [[劉好多]]
+
+居住地: 西雅圖</text>
+      <sha1>6uvparsuwacrlzrf04i3t52em1pnb6a</sha1>
+    </revision>
+    <revision>
+      <id>65</id>
+      <parentid>47</parentid>
+      <timestamp>2021-11-25T04:00:53Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>65</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="208" sha1="lrjrdurfluf2gg0r4d696rbf7ujsk1w" xml:space="preserve">=== 人物簡述 ===
+年輕時孤身來到美國，後與劉好多相識並結婚，性格溫柔。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 32
+
+伴侶: [[劉好多]]
+
+居住地: 西雅圖
+[[分類:人物]]</text>
+      <sha1>lrjrdurfluf2gg0r4d696rbf7ujsk1w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>劉嫻</title>
+    <ns>0</ns>
+    <id>19</id>
+    <revision>
+      <id>42</id>
+      <timestamp>2021-11-22T12:27:54Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 人物簡述 === 從小聰明懂事，從不為家裡帶來麻煩，和同齡人比起是十分成熟的小女孩。  === 後設資料 === 性別: 女  年齡…」的新頁面</comment>
+      <origin>42</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="200" sha1="6wrhdclktaoe4xip8v3748kq0avmyyo" xml:space="preserve">=== 人物簡述 ===
+從小聰明懂事，從不為家裡帶來麻煩，和同齡人比起是十分成熟的小女孩。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 8
+
+伴侶: 無
+
+居住地: 西雅圖</text>
+      <sha1>6wrhdclktaoe4xip8v3748kq0avmyyo</sha1>
+    </revision>
+    <revision>
+      <id>66</id>
+      <parentid>42</parentid>
+      <timestamp>2021-11-25T04:01:10Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>66</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="gpaovl4om3nbxl2nc1ridvymuzeuq0r" xml:space="preserve">=== 人物簡述 ===
+從小聰明懂事，從不為家裡帶來麻煩，和同齡人比起是十分成熟的小女孩。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 8
+
+伴侶: 無
+
+居住地: 西雅圖
+[[分類:人物]]</text>
+      <sha1>gpaovl4om3nbxl2nc1ridvymuzeuq0r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fred</title>
+    <ns>0</ns>
+    <id>20</id>
+    <revision>
+      <id>43</id>
+      <timestamp>2021-11-22T12:28:53Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 人物簡述 === 身形瘦弱，戴著黑框眼鏡，是個思慮縝密的人。和Mary在代工廠結識並結婚，兩人因想賺大錢而出發淘金。…」的新頁面</comment>
+      <origin>43</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="242" sha1="17dfkzzl497zj9rcet9tv6dkkfg087z" xml:space="preserve">=== 人物簡述 ===
+身形瘦弱，戴著黑框眼鏡，是個思慮縝密的人。和Mary在代工廠結識並結婚，兩人因想賺大錢而出發淘金。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 42
+
+伴侶: Mary
+
+居住地: 芝加哥</text>
+      <sha1>17dfkzzl497zj9rcet9tv6dkkfg087z</sha1>
+    </revision>
+    <revision>
+      <id>46</id>
+      <parentid>43</parentid>
+      <timestamp>2021-11-22T12:30:00Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>46</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="15fp3c46qgcjpstqypluhsix8k5b23y" xml:space="preserve">=== 人物簡述 ===
+身形瘦弱，戴著黑框眼鏡，是個思慮縝密的人。和Mary在代工廠結識並結婚，兩人因想賺大錢而出發淘金。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 42
+
+伴侶: [[Mary]]
+
+居住地: 芝加哥</text>
+      <sha1>15fp3c46qgcjpstqypluhsix8k5b23y</sha1>
+    </revision>
+    <revision>
+      <id>67</id>
+      <parentid>46</parentid>
+      <timestamp>2021-11-25T04:01:30Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>67</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="264" sha1="tc1t6v879zfpkfbwekjnskgd445atpl" xml:space="preserve">=== 人物簡述 ===
+身形瘦弱，戴著黑框眼鏡，是個思慮縝密的人。和Mary在代工廠結識並結婚，兩人因想賺大錢而出發淘金。
+
+=== 後設資料 ===
+性別: 男
+
+年齡: 42
+
+伴侶: [[Mary]]
+
+居住地: 芝加哥
+[[分類:人物]]</text>
+      <sha1>tc1t6v879zfpkfbwekjnskgd445atpl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mary</title>
+    <ns>0</ns>
+    <id>21</id>
+    <revision>
+      <id>44</id>
+      <timestamp>2021-11-22T12:29:34Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 人物簡述 === 身材微胖，性格溫暖，感情真切。曾是代工廠女工，受盡不平等對待，直到遇見Fred，放棄原有的工作，追…」的新頁面</comment>
+      <origin>44</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="knm6vdpn5bg0gk4npef7nypokhid716" xml:space="preserve">=== 人物簡述 ===
+身材微胖，性格溫暖，感情真切。曾是代工廠女工，受盡不平等對待，直到遇見Fred，放棄原有的工作，追隨丈夫。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 30
+
+伴侶: Fred
+
+居住地: 芝加哥</text>
+      <sha1>knm6vdpn5bg0gk4npef7nypokhid716</sha1>
+    </revision>
+    <revision>
+      <id>45</id>
+      <parentid>44</parentid>
+      <timestamp>2021-11-22T12:29:49Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>45</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="258" sha1="ljf6l7bilulttaz8ixqf6lwtzrwvd89" xml:space="preserve">=== 人物簡述 ===
+身材微胖，性格溫暖，感情真切。曾是代工廠女工，受盡不平等對待，直到遇見Fred，放棄原有的工作，追隨丈夫。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 30
+
+伴侶: [[Fred]]
+
+居住地: 芝加哥</text>
+      <sha1>ljf6l7bilulttaz8ixqf6lwtzrwvd89</sha1>
+    </revision>
+    <revision>
+      <id>68</id>
+      <parentid>45</parentid>
+      <timestamp>2021-11-25T04:01:44Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>68</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="276" sha1="bti1ee5dn58xrybi4isghqwrrkjzmsg" xml:space="preserve">=== 人物簡述 ===
+身材微胖，性格溫暖，感情真切。曾是代工廠女工，受盡不平等對待，直到遇見Fred，放棄原有的工作，追隨丈夫。
+
+=== 後設資料 ===
+性別: 女
+
+年齡: 30
+
+伴侶: [[Fred]]
+
+居住地: 芝加哥
+[[分類:人物]]</text>
+      <sha1>bti1ee5dn58xrybi4isghqwrrkjzmsg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:Resize.jpg</title>
+    <ns>6</ns>
+    <id>22</id>
+    <revision>
+      <id>56</id>
+      <timestamp>2021-11-25T03:54:47Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6" sha1="fibotwwh7lku8thks3au7g7gnyo8ei9" xml:space="preserve">貓咪</text>
+      <sha1>fibotwwh7lku8thks3au7g7gnyo8ei9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:大黃.jpg</title>
+    <ns>6</ns>
+    <id>23</id>
+    <revision>
+      <id>57</id>
+      <timestamp>2021-11-25T03:56:30Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>57</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6" sha1="l5e1x4fesxs6z5rh8ij62uof1ex3ca2" xml:space="preserve">大黃</text>
+      <sha1>l5e1x4fesxs6z5rh8ij62uof1ex3ca2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>暴風雨</title>
+    <ns>0</ns>
+    <id>24</id>
+    <revision>
+      <id>79</id>
+      <timestamp>2021-11-25T04:15:44Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 原因 === 大自然總是難以預測。 [[分類:困境]]」的新頁面</comment>
+      <origin>79</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="63" sha1="9a60fvk7um7alls8jskubgirx1zn7xj" xml:space="preserve">=== 原因 ===
+大自然總是難以預測。
+[[分類:困境]]</text>
+      <sha1>9a60fvk7um7alls8jskubgirx1zn7xj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>龍捲風</title>
+    <ns>0</ns>
+    <id>25</id>
+    <revision>
+      <id>80</id>
+      <timestamp>2021-11-25T04:16:12Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 原因 === 大自然總是難以預測。 [[分類:困境]]」的新頁面</comment>
+      <origin>80</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="63" sha1="9a60fvk7um7alls8jskubgirx1zn7xj" xml:space="preserve">=== 原因 ===
+大自然總是難以預測。
+[[分類:困境]]</text>
+      <sha1>9a60fvk7um7alls8jskubgirx1zn7xj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>土石流</title>
+    <ns>0</ns>
+    <id>26</id>
+    <revision>
+      <id>81</id>
+      <timestamp>2021-11-25T04:17:38Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 原因 === [[暴風雨]]可能引起土石流。」的新頁面</comment>
+      <origin>81</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" sha1="0qh977zvt1ryry383qsirx9g1u83ysa" xml:space="preserve">=== 原因 ===
+[[暴風雨]]可能引起土石流。</text>
+      <sha1>0qh977zvt1ryry383qsirx9g1u83ysa</sha1>
+    </revision>
+    <revision>
+      <id>82</id>
+      <parentid>81</parentid>
+      <timestamp>2021-11-25T04:17:53Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>82</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70" sha1="shxugxcuiaqf85sz547bclbiwft7yh0" xml:space="preserve">=== 原因 ===
+[[暴風雨]]可能引起土石流。
+[[分類:困境]]</text>
+      <sha1>shxugxcuiaqf85sz547bclbiwft7yh0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>淘金者的威脅</title>
+    <ns>0</ns>
+    <id>27</id>
+    <revision>
+      <id>83</id>
+      <timestamp>2021-11-25T04:18:33Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 原因 === 在那個時代，人人都搶著挖金子，人一旦多，就可能有搶奪地盤、資源的情況發生。 [[分類:困境]]」的新頁面</comment>
+      <origin>83</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="144" sha1="6ocg84qeo91h4zm9kbedj1d5mcewlbl" xml:space="preserve">=== 原因 ===
+在那個時代，人人都搶著挖金子，人一旦多，就可能有搶奪地盤、資源的情況發生。
+[[分類:困境]]</text>
+      <sha1>6ocg84qeo91h4zm9kbedj1d5mcewlbl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>糧食不足</title>
+    <ns>0</ns>
+    <id>28</id>
+    <revision>
+      <id>85</id>
+      <timestamp>2021-11-25T08:32:27Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「=== 原因 === 天候不佳或遭遇自然災害，導致難以找到食物。 [[分類:困境]]」的新頁面</comment>
+      <origin>85</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="96" sha1="4rolx552b4w3gwoialgn4fmqjvzybh0" xml:space="preserve">=== 原因 ===
+天候不佳或遭遇自然災害，導致難以找到食物。
+[[分類:困境]]</text>
+      <sha1>4rolx552b4w3gwoialgn4fmqjvzybh0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>名稱待定</title>
+    <ns>0</ns>
+    <id>29</id>
+    <revision>
+      <id>91</id>
+      <timestamp>2021-12-26T10:14:25Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <comment>建立內容為「== 一、時空背景介紹 ==  == 二、重要類別 ==」的新頁面</comment>
+      <origin>91</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56" sha1="3wzgxqyjwfg3o8tjnv6ptua7dslpg34" xml:space="preserve">== 一、時空背景介紹 ==
+
+== 二、重要類別 ==</text>
+      <sha1>3wzgxqyjwfg3o8tjnv6ptua7dslpg34</sha1>
+    </revision>
+    <revision>
+      <id>92</id>
+      <parentid>91</parentid>
+      <timestamp>2021-12-26T10:15:05Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>92</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="106" sha1="juavxc5gwnvn1skp2idedgjybyym27n" xml:space="preserve">== 一、時空背景介紹 ==
+
+== 二、重要類別 ==
+* [[:分類:人物|人物]]
+* [[:分類:貓|貓]]</text>
+      <sha1>juavxc5gwnvn1skp2idedgjybyym27n</sha1>
+    </revision>
+    <revision>
+      <id>96</id>
+      <parentid>92</parentid>
+      <timestamp>2021-12-26T10:20:15Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>96</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="87" sha1="n4dyw7dnptlxspy37h5bsrv0kjcou3s" xml:space="preserve">== 一、時空背景介紹 ==
+
+== 二、重要類別 ==
+* 人物
+* [[:分類:貓|貓]]</text>
+      <sha1>n4dyw7dnptlxspy37h5bsrv0kjcou3s</sha1>
+    </revision>
+    <revision>
+      <id>97</id>
+      <parentid>96</parentid>
+      <timestamp>2021-12-26T10:20:49Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <comment>/* 二、重要類別 */</comment>
+      <origin>97</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="106" sha1="juavxc5gwnvn1skp2idedgjybyym27n" xml:space="preserve">== 一、時空背景介紹 ==
+
+== 二、重要類別 ==
+* [[:分類:人物|人物]]
+* [[:分類:貓|貓]]</text>
+      <sha1>juavxc5gwnvn1skp2idedgjybyym27n</sha1>
+    </revision>
+    <revision>
+      <id>98</id>
+      <parentid>97</parentid>
+      <timestamp>2021-12-27T15:28:50Z</timestamp>
+      <contributor>
+        <ip>140.113.138.43</ip>
+      </contributor>
+      <origin>98</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="304" sha1="o3nte5kpdfbmdzappukahqol6vkhlju" xml:space="preserve">== 一、首頁 ==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+
+
+== 二、時空背景介紹 ==
+
+== 三、重要類別 ==
+* [[:分類:人物|人物]]
+* [[:分類:貓|貓]]
+
+== 四、故事連結 ==</text>
+      <sha1>o3nte5kpdfbmdzappukahqol6vkhlju</sha1>
+    </revision>
+    <revision>
+      <id>99</id>
+      <parentid>98</parentid>
+      <timestamp>2021-12-27T15:37:16Z</timestamp>
+      <contributor>
+        <ip>140.113.138.43</ip>
+      </contributor>
+      <comment>/* 二、時空背景介紹 */</comment>
+      <origin>99</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1159" sha1="7fcafyz12gahq6qwhgltrltxflntgux" xml:space="preserve">== 一、首頁 ==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+== 二、時空背景介紹 ==
+
+== 三、重要類別 ==
+* [[:分類:人物|人物]]
+* [[:分類:貓|貓]]
+
+== 四、故事連結 ==</text>
+      <sha1>7fcafyz12gahq6qwhgltrltxflntgux</sha1>
+    </revision>
+    <revision>
+      <id>100</id>
+      <parentid>99</parentid>
+      <timestamp>2021-12-27T16:46:59Z</timestamp>
+      <contributor>
+        <ip>140.113.138.43</ip>
+      </contributor>
+      <comment>/* 二、時空背景介紹 */</comment>
+      <origin>100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1953" sha1="pbppj5irxqgdw0cyaednkyt3o2bic9k" xml:space="preserve">== 一、首頁 ==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+
+== 二、創作發想 ==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+== 三、時空背景介紹 ==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子，
+
+== 四、重要類別 ==
+* [[:分類:人物|人物]]
+* [[:分類:貓|貓]]
+
+== 五、故事連結 ==</text>
+      <sha1>pbppj5irxqgdw0cyaednkyt3o2bic9k</sha1>
+    </revision>
+    <revision>
+      <id>101</id>
+      <parentid>100</parentid>
+      <timestamp>2021-12-27T16:47:54Z</timestamp>
+      <contributor>
+        <ip>140.113.138.43</ip>
+      </contributor>
+      <origin>101</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1953" sha1="obhuvek1c1v4nmn0z27ozcqrcm36rp7" xml:space="preserve">== 一、介紹 ==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+
+== 二、創作發想 ==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+== 三、時空背景介紹 ==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子，
+
+== 四、重要類別 ==
+* [[:分類:人物|人物]]
+* [[:分類:貓|貓]]
+
+== 五、故事連結 ==</text>
+      <sha1>obhuvek1c1v4nmn0z27ozcqrcm36rp7</sha1>
+    </revision>
+    <revision>
+      <id>102</id>
+      <parentid>101</parentid>
+      <timestamp>2021-12-27T16:55:43Z</timestamp>
+      <contributor>
+        <ip>140.113.138.43</ip>
+      </contributor>
+      <comment>/* 三、時空背景介紹 */</comment>
+      <origin>102</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1947" sha1="bh9wy9l7hamteh7ljnf84jbc8db1b69" xml:space="preserve">== 一、介紹 ==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+
+== 二、創作發想 ==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+== 三、背景大要 ==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子，
+
+== 四、重要類別 ==
+* [[:分類:人物|人物]]
+* [[:分類:貓|貓]]
+
+== 五、故事連結 ==</text>
+      <sha1>bh9wy9l7hamteh7ljnf84jbc8db1b69</sha1>
+    </revision>
+    <revision>
+      <id>103</id>
+      <parentid>102</parentid>
+      <timestamp>2022-01-02T16:36:12Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <comment>/* 四、重要類別 */</comment>
+      <origin>103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1947" sha1="hr8srq32ijzhc8m9lgv1pd0ovf41yqm" xml:space="preserve">== 一、介紹 ==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+
+== 二、創作發想 ==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+== 三、背景大要 ==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子，
+
+== 四、重要類別 ==
+* [[:分類:人物|角色]]
+* [[:分類:貓|貓]]
+
+== 五、故事連結 ==</text>
+      <sha1>hr8srq32ijzhc8m9lgv1pd0ovf41yqm</sha1>
+    </revision>
+    <revision>
+      <id>104</id>
+      <parentid>103</parentid>
+      <timestamp>2022-01-02T16:36:31Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <comment>/* 四、重要類別 */</comment>
+      <origin>104</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1928" sha1="h49d8tf87rmjz8vdq3bbz1tcrnoutpc" xml:space="preserve">== 一、介紹 ==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+
+== 二、創作發想 ==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+== 三、背景大要 ==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子，
+
+== 四、重要類別 ==
+* 角色
+* [[:分類:貓|貓]]
+
+== 五、故事連結 ==</text>
+      <sha1>h49d8tf87rmjz8vdq3bbz1tcrnoutpc</sha1>
+    </revision>
+    <revision>
+      <id>105</id>
+      <parentid>104</parentid>
+      <timestamp>2022-01-02T16:37:12Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <comment>/* 四、重要類別 */</comment>
+      <origin>105</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1947" sha1="spjlccts6s3uozvs667jonw64qycexo" xml:space="preserve">== 一、介紹 ==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+
+== 二、創作發想 ==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+== 三、背景大要 ==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子，
+
+== 四、重要類別 ==
+* [[:分類:角色|角色]]
+* [[:分類:貓|貓]]
+
+== 五、故事連結 ==</text>
+      <sha1>spjlccts6s3uozvs667jonw64qycexo</sha1>
+    </revision>
+    <revision>
+      <id>131</id>
+      <parentid>105</parentid>
+      <timestamp>2022-01-02T18:00:13Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 三、背景大要 */</comment>
+      <origin>131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2904" sha1="m404qmihaoka3izuh6ogz4dnukem9dk" xml:space="preserve">== 一、介紹 ==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+
+== 二、創作發想 ==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+== 三、背景大要 ==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子。
+
+她的爸爸是個台商，常常到中國出差；媽媽是公司經理，加班也已經是常態了，
+
+也因此她常常讀完書回家時都很晚了，但是家裡的電燈依舊是暗的，
+
+這讓她覺得很孤獨，所以一直想要買那隻寵物店的白貓來陪伴自己，
+
+但她也很清楚，以她們家的情形，很難有時間去照顧一隻貓。
+
+
+這一天，她一如往常地聽著數學老師講話，也照慣例的開始昏昏欲睡，此時聽眾會面臨第一個選擇，這個選擇會決定故事往哪一條主軸發展。
+
+這兩條主軸分別是：小瑜在睡夢中變成貓，體驗流浪貓的生活，以及小瑜在放學的路上遇到一隻被遺棄的小奶貓，並將牠帶回家，她也會因此和媽媽吵架。
+
+這個故事總共有六個結局，每個結局都包含不同的議題，我們認為這些議題都很值得關注，希望能讓聽眾在聽完以後平靜的思考其中的意義。
+
+== 四、重要類別 ==
+* [[:分類:角色|角色]]
+* [[:分類:貓|貓]]
+
+== 五、故事連結 ==</text>
+      <sha1>m404qmihaoka3izuh6ogz4dnukem9dk</sha1>
+    </revision>
+    <revision>
+      <id>132</id>
+      <parentid>131</parentid>
+      <timestamp>2022-01-02T18:00:36Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2907" sha1="cw3adwyrfs0n9ty7668nfcz9nvf5b1c" xml:space="preserve">== 一、介紹 ==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+
+== 二、創作發想 ==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+== 三、背景大要 ==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子。
+
+她的爸爸是個台商，常常到中國出差；媽媽是公司經理，加班也已經是常態了，
+
+也因此她常常讀完書回家時都很晚了，但是家裡的電燈依舊是暗的，
+
+這讓她覺得很孤獨，所以一直想要買那隻寵物店的白貓來陪伴自己，
+
+但她也很清楚，以她們家的情形，很難有時間去照顧一隻貓。
+
+
+這一天，她一如往常地聽著數學老師講話，也照慣例的開始昏昏欲睡，此時聽眾會面臨第一個選擇，這個選擇會決定故事往哪一條主軸發展。
+
+這兩條主軸分別是：小瑜在睡夢中變成貓，體驗流浪貓的生活，以及小瑜在放學的路上遇到一隻被遺棄的小奶貓，並將牠帶回家，她也會因此和媽媽吵架。
+
+這個故事總共有六個結局，每個結局都包含不同的議題，我們認為這些議題都很值得關注，也希望能讓聽眾在聽完以後平靜的思考其中的意義。
+
+== 四、重要類別 ==
+* [[:分類:角色|角色]]
+* [[:分類:貓|貓]]
+
+== 五、故事連結 ==</text>
+      <sha1>cw3adwyrfs0n9ty7668nfcz9nvf5b1c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>分類:貓</title>
+    <ns>14</ns>
+    <id>30</id>
+    <revision>
+      <id>93</id>
+      <timestamp>2021-12-26T10:17:22Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <comment>建立內容為「* [[店貓]] * [[小瑜]]」的新頁面</comment>
+      <origin>93</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" sha1="kgyt3z5lvi3yzq8xfzazmxnn4g6s5q1" xml:space="preserve">* [[店貓]]
+* [[小瑜]]</text>
+      <sha1>kgyt3z5lvi3yzq8xfzazmxnn4g6s5q1</sha1>
+    </revision>
+    <revision>
+      <id>110</id>
+      <parentid>93</parentid>
+      <timestamp>2022-01-02T16:44:13Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <origin>110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="37" sha1="e8s4912j6gofuot1ketxao44onbp5te" xml:space="preserve">* [[店貓]]
+* [[小瑜|小瑜(貓)]]</text>
+      <sha1>e8s4912j6gofuot1ketxao44onbp5te</sha1>
+    </revision>
+    <revision>
+      <id>111</id>
+      <parentid>110</parentid>
+      <timestamp>2022-01-02T16:45:32Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <origin>111</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="7gnsv91hj7qwzbvv21hirkb6r5lrcgq" xml:space="preserve">* [[店貓]]
+*[[小瑜(貓)]]</text>
+      <sha1>7gnsv91hj7qwzbvv21hirkb6r5lrcgq</sha1>
+    </revision>
+    <revision>
+      <id>113</id>
+      <parentid>111</parentid>
+      <timestamp>2022-01-02T16:46:27Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <origin>113</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="41" sha1="s69jzhdv605v0bej5orrsy5uyccvpm5" xml:space="preserve">* [[店貓]]
+*[[小瑜(貓)]]
+*[[箱箱]]</text>
+      <sha1>s69jzhdv605v0bej5orrsy5uyccvpm5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>店貓</title>
+    <ns>0</ns>
+    <id>31</id>
+    <revision>
+      <id>94</id>
+      <timestamp>2021-12-26T10:18:48Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <comment>建立內容為「=== 簡述 === 小瑜在寵物店裡特別喜歡的一隻貓  === 後設資料 === 眼睛顏色：兩眼皆水藍色  花色：純白  長毛／短毛：長毛」的新頁面</comment>
+      <origin>94</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="159" sha1="az27pltno41a1jvmalxqy2os3arztdp" xml:space="preserve">=== 簡述 ===
+小瑜在寵物店裡特別喜歡的一隻貓
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆水藍色
+
+花色：純白
+
+長毛／短毛：長毛</text>
+      <sha1>az27pltno41a1jvmalxqy2os3arztdp</sha1>
+    </revision>
+    <revision>
+      <id>125</id>
+      <parentid>94</parentid>
+      <timestamp>2022-01-02T17:38:14Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>125</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="482" sha1="48ssib2eggtap9klksaomne5nrxb78p" xml:space="preserve">=== 簡述 ===
+小瑜在寵物店裡特別喜歡的一隻貓
+雖然長的很漂亮，但可能是因為個性不親人，一直沒有被買走。
+小瑜常常想著要把牠買回家養，就能在回家後有個陪伴，但礙於家庭因素，始終沒有實現。
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆水藍色
+
+花色：純白
+
+長毛／短毛：長毛
+
+年齡：兩歲
+
+個性：比較不親人、喜歡自己活動
+
+喜歡的食物：貓食、飼料
+
+[[Category:貓]]</text>
+      <sha1>48ssib2eggtap9klksaomne5nrxb78p</sha1>
+    </revision>
+    <revision>
+      <id>126</id>
+      <parentid>125</parentid>
+      <timestamp>2022-01-02T17:38:37Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 簡述 */</comment>
+      <origin>126</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="484" sha1="b0f1l84i0t2n58gwr0aqdmd5bjrlmvy" xml:space="preserve">=== 簡述 ===
+小瑜在寵物店裡特別喜歡的一隻貓
+
+雖然長的很漂亮，但可能是因為個性不親人，一直沒有被買走。
+
+小瑜常常想著要把牠買回家養，就能在回家後有個陪伴，但礙於家庭因素，始終沒有實現。
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆水藍色
+
+花色：純白
+
+長毛／短毛：長毛
+
+年齡：兩歲
+
+個性：比較不親人、喜歡自己活動
+
+喜歡的食物：貓食、飼料
+
+[[Category:貓]]</text>
+      <sha1>b0f1l84i0t2n58gwr0aqdmd5bjrlmvy</sha1>
+    </revision>
+    <revision>
+      <id>127</id>
+      <parentid>126</parentid>
+      <timestamp>2022-01-02T17:38:56Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="493" sha1="fymrj5x7ayv385zqj0gybhlvqg26nk0" xml:space="preserve">=== 簡述 ===
+小瑜在寵物店裡特別喜歡的一隻貓
+
+雖然長的很漂亮，但可能是因為個性不親人，一直沒有被買走。
+
+小瑜常常想著要把牠買回家養，就能夠讓她在回家後有個陪伴，但礙於家庭因素，始終沒有實現。
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆水藍色
+
+花色：純白
+
+長毛／短毛：長毛
+
+年齡：兩歲
+
+個性：比較不親人、喜歡自己活動
+
+喜歡的食物：貓食、飼料
+
+[[Category:貓]]</text>
+      <sha1>fymrj5x7ayv385zqj0gybhlvqg26nk0</sha1>
+    </revision>
+    <revision>
+      <id>128</id>
+      <parentid>127</parentid>
+      <timestamp>2022-01-02T17:39:47Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>128</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="548" sha1="he1omegfqs9skm3z734ip5pvhh8m74n" xml:space="preserve">=== 簡述 ===
+小瑜在寵物店裡特別喜歡的一隻貓
+
+雖然長的很漂亮，但可能是因為個性不親人，一直沒有被買走。
+
+小瑜常常想著要把牠買回家養，就能夠讓她在回家後有個陪伴，但礙於家庭因素，始終沒有實現。
+
+[[檔案:店貓示意圖.jpg|縮圖|店貓示意圖]]
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆水藍色
+
+花色：純白
+
+長毛／短毛：長毛
+
+年齡：兩歲
+
+個性：比較不親人、喜歡自己活動
+
+喜歡的食物：貓食、飼料
+
+[[Category:貓]]</text>
+      <sha1>he1omegfqs9skm3z734ip5pvhh8m74n</sha1>
+    </revision>
+    <revision>
+      <id>129</id>
+      <parentid>128</parentid>
+      <timestamp>2022-01-02T17:42:32Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>129</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="578" sha1="738udq2ch12fbdfclf6lgrvflpf78y5" xml:space="preserve">=== 簡述 ===
+小瑜在寵物店裡特別喜歡的一隻貓，白白胖胖的，毛很蓬
+
+雖然長的很可愛，但可能是因為個性不親人，一直沒有被買走。
+
+小瑜常常想著要把牠買回家養，就能夠讓她在回家後有個陪伴，但礙於家庭因素，始終沒有實現。
+
+[[檔案:店貓示意圖.jpg|縮圖|店貓示意圖]]
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆水藍色
+
+花色：純白
+
+長毛／短毛：長毛
+
+年齡：兩歲
+
+個性：比較不親人、喜歡自己活動
+
+喜歡的食物：貓食、飼料
+
+[[Category:貓]]</text>
+      <sha1>738udq2ch12fbdfclf6lgrvflpf78y5</sha1>
+    </revision>
+    <revision>
+      <id>144</id>
+      <parentid>129</parentid>
+      <timestamp>2022-01-02T18:39:23Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="581" sha1="3fu9eqj052pl4b6vd9d2x91gp5fwnm8" xml:space="preserve">=== 簡述 ===
+小瑜在寵物店裡特別喜歡的一隻貓，白白胖胖的，毛很蓬
+
+雖然長的很可愛，但可能是因為個性不親人，一直沒有被買走。
+
+小瑜常常想著要把牠買回家養，就能夠讓她在回家後有個陪伴，但礙於家庭因素，始終沒有實現。
+
+[[檔案:店貓示意圖.jpg|縮圖|店貓示意圖]]
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆水藍色
+
+花色：純白
+
+長毛／短毛：長毛
+
+年齡：兩歲
+
+個性：比較不親人、喜歡自己活動
+
+喜歡的食物：貓食、飼料
+
+
+
+
+[[Category:貓]]</text>
+      <sha1>3fu9eqj052pl4b6vd9d2x91gp5fwnm8</sha1>
+    </revision>
+    <revision>
+      <id>145</id>
+      <parentid>144</parentid>
+      <timestamp>2022-01-02T18:39:37Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="583" sha1="ql0ygv31rwbezmbp9cogqmdlid7xuhn" xml:space="preserve">=== 簡述 ===
+小瑜在寵物店裡特別喜歡的一隻貓，白白胖胖的，毛很蓬
+
+雖然長的很可愛，但可能是因為個性不親人，一直沒有被買走。
+
+小瑜常常想著要把牠買回家養，就能夠讓她在回家後有個陪伴，但礙於家庭因素，始終沒有實現。
+
+[[檔案:店貓示意圖.jpg|縮圖|店貓示意圖]]
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆水藍色
+
+花色：純白
+
+長毛／短毛：長毛
+
+年齡：兩歲
+
+個性：比較不親人、喜歡自己活動
+
+喜歡的食物：貓食、飼料
+
+
+
+
+
+
+[[Category:貓]]</text>
+      <sha1>ql0ygv31rwbezmbp9cogqmdlid7xuhn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>小瑜</title>
+    <ns>0</ns>
+    <id>32</id>
+    <revision>
+      <id>95</id>
+      <timestamp>2021-12-26T10:19:43Z</timestamp>
+      <contributor>
+        <ip>39.9.99.96</ip>
+      </contributor>
+      <comment>建立內容為「=== 簡述 === 小瑜變成貓後的樣子  === 後設資料 === 眼睛顏色：兩眼皆黃綠色  花色：黑底虎斑  長毛／短毛：短毛」的新頁面</comment>
+      <origin>95</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="147" sha1="605yywwhx580xhr95aa72sfx0dd4a9w" xml:space="preserve">=== 簡述 ===
+小瑜變成貓後的樣子
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆黃綠色
+
+花色：黑底虎斑
+
+長毛／短毛：短毛</text>
+      <sha1>605yywwhx580xhr95aa72sfx0dd4a9w</sha1>
+    </revision>
+    <revision>
+      <id>163</id>
+      <parentid>95</parentid>
+      <timestamp>2022-01-02T20:05:26Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="n4qvscf9nizsnjyjzdu6ywpgj02l081" xml:space="preserve">=== 簡述 ===
+===後設資料===
+年齡：18歲
+
+性別：女
+
+個性：喜愛小動物、善良、多愁善感
+
+生日：11月18日
+
+星座：天蠍座
+
+血型：A型
+
+外貌：
+
+職業：高中生
+
+興趣：看貓、聽音樂、到處走走</text>
+      <sha1>n4qvscf9nizsnjyjzdu6ywpgj02l081</sha1>
+    </revision>
+    <revision>
+      <id>164</id>
+      <parentid>163</parentid>
+      <timestamp>2022-01-02T20:05:59Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="265" sha1="pdfx6dg6sfwmxpvp0bzt0cx28ckl453" xml:space="preserve">=== 簡述 ===
+===後設資料===
+年齡：18歲
+
+性別：女
+
+個性：喜愛小動物、善良、多愁善感
+
+生日：11月18日
+
+星座：天蠍座
+
+血型：A型
+
+外貌：
+
+職業：高中生
+
+興趣：看貓、聽音樂、到處走走
+
+
+[[Category:角色]]</text>
+      <sha1>pdfx6dg6sfwmxpvp0bzt0cx28ckl453</sha1>
+    </revision>
+    <revision>
+      <id>189</id>
+      <parentid>164</parentid>
+      <timestamp>2022-01-03T03:21:23Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 後設資料 */</comment>
+      <origin>189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="992" sha1="qqry44siezg304utgjdytrqg96lvcqg" xml:space="preserve">[[檔案:小瑜示意圖.jpg|縮圖|小瑜示意圖]]
+
+=== 簡述 ===
+是個正在準備學測的考生，每天忙於課業，壓力很大，
+
+對於自己的未來很迷惘，不知道自己讀書是為了什麼。
+
+她的爸爸是個台商，常常到中國出差；媽媽是公司經理，加班也已經是常態了，
+
+讓他也習慣了一個人的生活，儘管如此，她還是想要一個陪伴，
+
+在放學的路上常常會停在寵物店前看裡面的[[店貓]]，並期待自己哪一天也能把牠帶回家照顧。
+
+這天，她像往常一樣在課堂上神遊，
+
+但這次她遇到了會影響她對於未來規劃的選擇，
+
+聽眾也將會隨著她的選擇和她一起經歷不同的考驗。
+
+===後設資料===
+年齡：18歲
+
+性別：女
+
+個性：喜愛小動物、善良、多愁善感
+
+生日：11月18日
+
+星座：天蠍座
+
+血型：A型
+
+外貌：
+
+職業：高中生
+
+興趣：看貓、聽音樂、到處走走
+
+出現片段：全
+
+[[Category:角色]]</text>
+      <sha1>qqry44siezg304utgjdytrqg96lvcqg</sha1>
+    </revision>
+    <revision>
+      <id>190</id>
+      <parentid>189</parentid>
+      <timestamp>2022-01-03T03:22:28Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 後設資料 */</comment>
+      <origin>190</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1027" sha1="sxbb5sskzd3atgrbh23x0ztofi7xw90" xml:space="preserve">[[檔案:小瑜示意圖.jpg|縮圖|小瑜示意圖]]
+
+=== 簡述 ===
+是個正在準備學測的考生，每天忙於課業，壓力很大，
+
+對於自己的未來很迷惘，不知道自己讀書是為了什麼。
+
+她的爸爸是個台商，常常到中國出差；媽媽是公司經理，加班也已經是常態了，
+
+讓他也習慣了一個人的生活，儘管如此，她還是想要一個陪伴，
+
+在放學的路上常常會停在寵物店前看裡面的[[店貓]]，並期待自己哪一天也能把牠帶回家照顧。
+
+這天，她像往常一樣在課堂上神遊，
+
+但這次她遇到了會影響她對於未來規劃的選擇，
+
+聽眾也將會隨著她的選擇和她一起經歷不同的考驗。
+
+===後設資料===
+年齡：18歲
+
+性別：女
+
+個性：喜愛小動物、善良、多愁善感
+
+生日：11月18日
+
+星座：天蠍座
+
+血型：A型
+
+外貌：中長髮、有燙髮、身高156cm
+
+職業：高中生
+
+興趣：看貓、聽音樂、到處走走
+
+出現片段：全
+
+[[Category:角色]]</text>
+      <sha1>sxbb5sskzd3atgrbh23x0ztofi7xw90</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>分類:角色</title>
+    <ns>14</ns>
+    <id>33</id>
+    <revision>
+      <id>106</id>
+      <timestamp>2022-01-02T16:40:58Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <comment>建立內容為「[[小瑜]] [[小瑜媽媽]] [[小瑜爸爸]] [[小櫻]] [[小櫻媽媽]] [[小櫻爸爸]] [[劉雯]] [[王炳宇]] [[數學老師]]」的新頁面</comment>
+      <origin>106</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="131" sha1="higyyz256bvr1p72abosu4oasglnelg" xml:space="preserve">[[小瑜]]
+[[小瑜媽媽]]
+[[小瑜爸爸]]
+[[小櫻]]
+[[小櫻媽媽]]
+[[小櫻爸爸]]
+[[劉雯]]
+[[王炳宇]]
+[[數學老師]]</text>
+      <sha1>higyyz256bvr1p72abosu4oasglnelg</sha1>
+    </revision>
+    <revision>
+      <id>107</id>
+      <parentid>106</parentid>
+      <timestamp>2022-01-02T16:41:32Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <origin>107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="148" sha1="2h3rc686lrvdj7omwfl6yz40l15ja6v" xml:space="preserve">&lt;nowiki&gt;[[小瑜]]&lt;/nowiki&gt;
+[[小瑜媽媽]]
+[[小瑜爸爸]]
+[[小櫻]]
+[[小櫻媽媽]]
+[[小櫻爸爸]]
+[[劉雯]]
+[[王炳宇]]
+[[數學老師]]</text>
+      <sha1>2h3rc686lrvdj7omwfl6yz40l15ja6v</sha1>
+    </revision>
+    <revision>
+      <id>108</id>
+      <parentid>107</parentid>
+      <timestamp>2022-01-02T16:42:15Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <origin>108</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="156" sha1="974j60fn977o130ugmbyxmcpewqxr6f" xml:space="preserve">&lt;nowiki&gt;[[小瑜]]&lt;/nowiki&gt;
+
+[[小瑜媽媽]]
+
+[[小瑜爸爸]]
+
+[[小櫻]]
+
+[[小櫻媽媽]]
+
+[[小櫻爸爸]]
+
+[[劉雯]]
+
+[[王炳宇]]
+
+[[數學老師]]</text>
+      <sha1>974j60fn977o130ugmbyxmcpewqxr6f</sha1>
+    </revision>
+    <revision>
+      <id>109</id>
+      <parentid>108</parentid>
+      <timestamp>2022-01-02T16:42:49Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <origin>109</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="144" sha1="k8sgfc1ivxdp7zqzffxa89p202srp5o" xml:space="preserve">[[小瑜(人)]]
+
+[[小瑜媽媽]]
+
+[[小瑜爸爸]]
+
+[[小櫻]]
+
+[[小櫻媽媽]]
+
+[[小櫻爸爸]]
+
+[[劉雯]]
+
+[[王炳宇]]
+
+[[數學老師]]</text>
+      <sha1>k8sgfc1ivxdp7zqzffxa89p202srp5o</sha1>
+    </revision>
+    <revision>
+      <id>162</id>
+      <parentid>109</parentid>
+      <timestamp>2022-01-02T20:03:25Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="139" sha1="nhcyfibqobw1saus94sxac8pjozl9au" xml:space="preserve">[[小瑜]]
+
+[[小瑜媽媽]]
+
+[[小瑜爸爸]]
+
+[[小櫻]]
+
+[[小櫻媽媽]]
+
+[[小櫻爸爸]]
+
+[[劉雯]]
+
+[[王炳宇]]
+
+[[數學老師]]</text>
+      <sha1>nhcyfibqobw1saus94sxac8pjozl9au</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>小瑜(貓)</title>
+    <ns>0</ns>
+    <id>34</id>
+    <revision>
+      <id>112</id>
+      <timestamp>2022-01-02T16:45:48Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <comment>建立內容為「=== 簡述 === 小瑜變成貓後的樣子  === 後設資料 === 眼睛顏色：兩眼皆黃綠色  花色：黑底虎斑  長毛／短毛：短毛」的新頁面</comment>
+      <origin>112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="147" sha1="605yywwhx580xhr95aa72sfx0dd4a9w" xml:space="preserve">=== 簡述 ===
+小瑜變成貓後的樣子
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆黃綠色
+
+花色：黑底虎斑
+
+長毛／短毛：短毛</text>
+      <sha1>605yywwhx580xhr95aa72sfx0dd4a9w</sha1>
+    </revision>
+    <revision>
+      <id>120</id>
+      <parentid>112</parentid>
+      <timestamp>2022-01-02T17:21:28Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>120</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="399" sha1="dx4idkgludalrbe7fhb6q7b8gtjh8zb" xml:space="preserve">=== 簡述 ===
+小瑜變成貓以後的樣子，剛開始面臨飢餓的問題，也因此遇到了第一次的抉擇，根據不同的選擇會使他遇到四種不同的體驗。
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆黃綠色
+
+花色：黑底虎斑
+
+長毛／短毛：短毛
+
+年齡：未知
+
+個性：黏人、怕孤單、需要陪伴
+
+喜歡的食物：肉泥、點心
+
+[[Category:貓]]</text>
+      <sha1>dx4idkgludalrbe7fhb6q7b8gtjh8zb</sha1>
+    </revision>
+    <revision>
+      <id>121</id>
+      <parentid>120</parentid>
+      <timestamp>2022-01-02T17:23:31Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="460" sha1="dse4p339s2095g16zh5fjrt2gyw63xj" xml:space="preserve">=== 簡述 ===
+小瑜變成貓以後的樣子，剛開始面臨飢餓的問題，也因此遇到了第一次的抉擇，根據不同的選擇會使他遇到四種不同的體驗。
+
+[[檔案:小瑜貓示意圖.jpg|縮圖|小瑜貓示意圖]]
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆黃綠色
+
+花色：黑底虎斑
+
+長毛／短毛：短毛
+
+年齡：未知
+
+個性：黏人、怕孤單、需要陪伴
+
+喜歡的食物：肉泥、點心
+
+[[Category:貓]]</text>
+      <sha1>dse4p339s2095g16zh5fjrt2gyw63xj</sha1>
+    </revision>
+    <revision>
+      <id>123</id>
+      <parentid>121</parentid>
+      <timestamp>2022-01-02T17:28:09Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>123</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="5i9pva765ni1cpt55r8aggfsyuk1gvl" xml:space="preserve">=== 簡述 ===
+小瑜變成貓以後的樣子，剛開始面臨飢餓的問題
+
+她也因此遇到了第一次的抉擇，根據不同的選擇會使她遇到四種不同的體驗。
+
+[[檔案:小瑜貓示意圖.jpg|縮圖|小瑜貓示意圖]]
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆黃綠色
+
+花色：黑底虎斑
+
+長毛／短毛：短毛
+
+年齡：未知
+
+個性：黏人、怕孤單、需要陪伴
+
+喜歡的食物：肉泥、點心
+
+[[Category:貓]]</text>
+      <sha1>5i9pva765ni1cpt55r8aggfsyuk1gvl</sha1>
+    </revision>
+    <revision>
+      <id>196</id>
+      <parentid>123</parentid>
+      <timestamp>2022-01-06T08:27:16Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="463" sha1="e3wechbkdemau73ypl05er44n1b0igv" xml:space="preserve">=== 簡述 ===
+小瑜變成貓以後的樣子，剛開始面臨飢餓的問題
+
+她也因此遇到了第一次的抉擇，根據不同的選擇會使她遇到四種不同的體驗。
+[[檔案:小瑜(貓)示意圖.jpg|縮圖|小瑜貓示意圖]]
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆黃綠色
+
+花色：黑底虎斑
+
+長毛／短毛：短毛
+
+年齡：未知
+
+個性：黏人、怕孤單、需要陪伴
+
+喜歡的食物：肉泥、點心
+
+[[Category:貓]]</text>
+      <sha1>e3wechbkdemau73ypl05er44n1b0igv</sha1>
+    </revision>
+    <revision>
+      <id>197</id>
+      <parentid>196</parentid>
+      <timestamp>2022-01-06T08:27:30Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>197</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="467" sha1="4btcc4hnwl51o125wqktpqpccgc5hgw" xml:space="preserve">=== 簡述 ===
+[[小瑜]]變成貓以後的樣子，剛開始面臨飢餓的問題
+
+她也因此遇到了第一次的抉擇，根據不同的選擇會使她遇到四種不同的體驗。
+[[檔案:小瑜(貓)示意圖.jpg|縮圖|小瑜貓示意圖]]
+
+=== 後設資料 ===
+眼睛顏色：兩眼皆黃綠色
+
+花色：黑底虎斑
+
+長毛／短毛：短毛
+
+年齡：未知
+
+個性：黏人、怕孤單、需要陪伴
+
+喜歡的食物：肉泥、點心
+
+[[Category:貓]]</text>
+      <sha1>4btcc4hnwl51o125wqktpqpccgc5hgw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>箱箱</title>
+    <ns>0</ns>
+    <id>35</id>
+    <revision>
+      <id>114</id>
+      <timestamp>2022-01-02T16:55:18Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <comment>建立內容為「 ===簡述=== 小瑜在放學路上，在巷子裡遇到的小奶貓，會依據不同的選擇決定牠的命運。  一種選擇會使牠被送到收容所；…」的新頁面</comment>
+      <origin>114</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="446" sha1="ftwr1o4mn3xfa28zy96k8l89e5atmnu" xml:space="preserve">
+===簡述===
+小瑜在放學路上，在巷子裡遇到的小奶貓，會依據不同的選擇決定牠的命運。
+
+一種選擇會使牠被送到收容所；另一種選擇則會讓牠被小瑜領養，成為她們家的貓，也成為小瑜的心靈慰藉，陪伴她度過迷惘的高三生活。
+===後設資料===
+眼睛顏色：兩眼皆亮藍色
+
+花色：褐色
+
+長毛／短毛：短毛
+
+年齡：三週
+
+個性：愛睡覺、很親人</text>
+      <sha1>ftwr1o4mn3xfa28zy96k8l89e5atmnu</sha1>
+    </revision>
+    <revision>
+      <id>115</id>
+      <parentid>114</parentid>
+      <timestamp>2022-01-02T17:01:28Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <origin>115</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="528" sha1="it6cy6t4z3f9wxb26b8ehba3p2yk2vj" xml:space="preserve">
+===簡述===
+小瑜在放學路上，在巷子裡遇到的小奶貓，會依據不同的選擇決定牠的命運。
+
+一種選擇會使牠被送到收容所；另一種選擇則會讓牠被小瑜領養，成為她們家的貓，也成為小瑜的心靈慰藉，陪伴她度過迷惘的高三生活。
+
+[[檔案:箱箱示意圖.jpg|縮圖|箱箱示意圖]]
+
+===後設資料===
+眼睛顏色：兩眼皆亮藍色
+
+花色：褐色
+
+長毛／短毛：短毛
+
+年齡：三週
+
+個性：愛睡覺、很親人
+
+喜歡的食物：奶粉</text>
+      <sha1>it6cy6t4z3f9wxb26b8ehba3p2yk2vj</sha1>
+    </revision>
+    <revision>
+      <id>117</id>
+      <parentid>115</parentid>
+      <timestamp>2022-01-02T17:04:08Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="537" sha1="ezfj46r68tuvnss2ibaunqsoh8y33tq" xml:space="preserve">
+===簡述===
+小瑜在放學路上，在巷子裡遇到的小奶貓，會依據不同的選擇決定牠的命運。
+
+一種選擇會使牠被送到收容所；另一種選擇則會讓牠被小瑜領養，成為她們家的貓，也成為小瑜的心靈慰藉，陪伴她度過迷惘的高三生活。
+
+[[檔案:箱箱示意圖.jpg|縮圖|箱箱示意圖]]
+
+===後設資料===
+眼睛顏色：兩眼皆黑色
+
+花色：白底褐斑
+
+長毛／短毛：短毛
+
+年齡：大約三週
+
+個性：愛睡覺、很親人
+
+喜歡的食物：奶粉</text>
+      <sha1>ezfj46r68tuvnss2ibaunqsoh8y33tq</sha1>
+    </revision>
+    <revision>
+      <id>118</id>
+      <parentid>117</parentid>
+      <timestamp>2022-01-02T17:09:20Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="664" sha1="fwou9etmrdhji8bnoidgdijzixkcglz" xml:space="preserve">
+===簡述===
+小瑜某天放學回家的路上，在巷子裡遇到的小奶貓，牠被遺棄在箱子裡，也因此被小瑜取名為「箱箱」
+
+會依據聽眾不同的選擇來決定牠的命運。
+
+一種選擇會使牠被送到收容所，成為小瑜內心的一個遺憾；
+
+另一種選擇則會讓牠被小瑜領養，成為她們家的貓，也成為小瑜的心靈慰藉，陪伴她度過迷惘的高三生活。
+
+[[檔案:箱箱示意圖.jpg|縮圖|箱箱示意圖]]
+
+===後設資料===
+眼睛顏色：兩眼皆黑色
+
+花色：白底褐斑
+
+長毛／短毛：短毛
+
+年齡：大約三週
+
+個性：愛睡覺、很親人
+
+喜歡的食物：奶粉</text>
+      <sha1>fwou9etmrdhji8bnoidgdijzixkcglz</sha1>
+    </revision>
+    <revision>
+      <id>119</id>
+      <parentid>118</parentid>
+      <timestamp>2022-01-02T17:20:37Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>119</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="682" sha1="oclxcxmdjtz8mz61ka0d3ap3fcgj0qi" xml:space="preserve">
+===簡述===
+小瑜某天放學回家的路上，在巷子裡遇到的小奶貓，牠被遺棄在箱子裡，也因此被小瑜取名為「箱箱」
+
+會依據聽眾不同的選擇來決定牠的命運。
+
+一種選擇會使牠被送到收容所，成為小瑜內心的一個遺憾；
+
+另一種選擇則會讓牠被小瑜領養，成為她們家的貓，也成為小瑜的心靈慰藉，陪伴她度過迷惘的高三生活。
+
+[[檔案:箱箱示意圖.jpg|縮圖|箱箱示意圖]]
+
+===後設資料===
+眼睛顏色：兩眼皆黑色
+
+花色：白底褐斑
+
+長毛／短毛：短毛
+
+年齡：大約三週
+
+個性：愛睡覺、很親人
+
+喜歡的食物：奶粉
+
+[[Category:貓]]</text>
+      <sha1>oclxcxmdjtz8mz61ka0d3ap3fcgj0qi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:箱箱示意圖.jpg</title>
+    <ns>6</ns>
+    <id>36</id>
+    <revision>
+      <id>116</id>
+      <timestamp>2022-01-02T17:02:54Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:小瑜貓示意圖.jpg</title>
+    <ns>6</ns>
+    <id>37</id>
+    <revision>
+      <id>122</id>
+      <timestamp>2022-01-02T17:23:45Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:店貓示意圖.jpg</title>
+    <ns>6</ns>
+    <id>38</id>
+    <revision>
+      <id>130</id>
+      <timestamp>2022-01-02T17:44:01Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>黃樑一貓</title>
+    <ns>0</ns>
+    <id>39</id>
+    <revision>
+      <id>135</id>
+      <timestamp>2022-01-02T18:01:59Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>建立內容為「 ==一、介紹== 為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥…」的新頁面</comment>
+      <origin>135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2892" sha1="lfss06ytk0w14epoyiulmwh51ixnu4t" xml:space="preserve">
+==一、介紹==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+==二、創作發想==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+==三、背景大要==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子。
+
+她的爸爸是個台商，常常到中國出差；媽媽是公司經理，加班也已經是常態了，
+
+也因此她常常讀完書回家時都很晚了，但是家裡的電燈依舊是暗的，
+
+這讓她覺得很孤獨，所以一直想要買那隻寵物店的白貓來陪伴自己，
+
+但她也很清楚，以她們家的情形，很難有時間去照顧一隻貓。
+
+這一天，她一如往常地聽著數學老師講話，也照慣例的開始昏昏欲睡，此時聽眾會面臨第一個選擇，這個選擇會決定故事往哪一條主軸發展。
+
+這兩條主軸分別是：小瑜在睡夢中變成貓，體驗流浪貓的生活，以及小瑜在放學的路上遇到一隻被遺棄的小奶貓，並將牠帶回家，她也會因此和媽媽吵架。
+
+這個故事總共有六個結局，每個結局都包含不同的議題，我們認為這些議題都很值得關注，也希望能讓聽眾在聽完以後平靜的思考其中的意義。
+==四、重要類別==
+*[[:分類:角色|角色]]
+*[[:分類:貓|貓]]
+==五、故事連結==</text>
+      <sha1>lfss06ytk0w14epoyiulmwh51ixnu4t</sha1>
+    </revision>
+    <revision>
+      <id>183</id>
+      <parentid>135</parentid>
+      <timestamp>2022-01-03T02:45:02Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2742" sha1="1pycsfb6nsh10nujm6bsdss7yih2ckq" xml:space="preserve">
+==一、介紹==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+==二、創作發想==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+
+這個故事總共有六個結局，每個結局都包含不同的議題，我們認為這些議題都很值得關注，也希望能讓聽眾在聽完以後平靜的思考其中的意義。
+==三、背景大要==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子。
+
+她的爸爸是個台商，常常到中國出差；媽媽是公司經理，加班也已經是常態了，
+
+也因此她常常讀完書回家時都很晚了，但是家裡的電燈依舊是暗的，
+
+這讓她覺得很孤獨，所以一直想要買那隻寵物店的白貓來陪伴自己，
+
+但她也很清楚，以她們家的情形，很難有時間去照顧一隻貓。
+
+這一天，她一如往常地聽著數學老師講話，也照慣例的開始昏昏欲睡，
+
+此時聽眾會面臨第一個選擇，這個選擇會決定故事往哪一條主軸發展，而這個抉擇會再影響後面所遇到的選擇。
+==四、重要類別==
+*[[:分類:角色|角色]]
+*[[:分類:貓|貓]]
+==五、故事連結==</text>
+      <sha1>1pycsfb6nsh10nujm6bsdss7yih2ckq</sha1>
+    </revision>
+    <revision>
+      <id>191</id>
+      <parentid>183</parentid>
+      <timestamp>2022-01-04T08:46:30Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 五、故事連結 */</comment>
+      <origin>191</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2874" sha1="gghqxcpo519axpbzcaulxpg5jcqvu4m" xml:space="preserve">
+==一、介紹==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+==二、創作發想==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+
+這個故事總共有六個結局，每個結局都包含不同的議題，我們認為這些議題都很值得關注，也希望能讓聽眾在聽完以後平靜的思考其中的意義。
+==三、背景大要==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子。
+
+她的爸爸是個台商，常常到中國出差；媽媽是公司經理，加班也已經是常態了，
+
+也因此她常常讀完書回家時都很晚了，但是家裡的電燈依舊是暗的，
+
+這讓她覺得很孤獨，所以一直想要買那隻寵物店的白貓來陪伴自己，
+
+但她也很清楚，以她們家的情形，很難有時間去照顧一隻貓。
+
+這一天，她一如往常地聽著數學老師講話，也照慣例的開始昏昏欲睡，
+
+此時聽眾會面臨第一個選擇，這個選擇會決定故事往哪一條主軸發展，而這個抉擇會再影響後面所遇到的選擇。
+==四、重要類別==
+*[[:分類:角色|角色]]
+*[[:分類:貓|貓]]
+==五、故事連結==
+[https://dreammmeow.blogspot.com/2022/01/ep1.html?fbclid=IwAR24UYkIKUxUdpv2Tu-WspeGxzL0y-d4TOL8WgA-B2V5jkYwiNVYzJC5EuA]黃樑一貓</text>
+      <sha1>gghqxcpo519axpbzcaulxpg5jcqvu4m</sha1>
+    </revision>
+    <revision>
+      <id>192</id>
+      <parentid>191</parentid>
+      <timestamp>2022-01-04T10:04:12Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 五、故事連結 */</comment>
+      <origin>192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2632" sha1="f4dsjhmcbdl2wwq472l32789n5dgv2y" xml:space="preserve">
+==一、介紹==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+==二、創作發想==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+
+這個故事總共有六個結局，每個結局都包含不同的議題，我們認為這些議題都很值得關注，也希望能讓聽眾在聽完以後平靜的思考其中的意義。
+==三、背景大要==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子。
+
+她的爸爸是個台商，常常到中國出差；媽媽是公司經理，加班也已經是常態了，
+
+也因此，她常常讀完書回家，家裡的電燈依舊是暗的。
+
+每天都過著一樣枯燥的生活，偶爾去看看寵物店的貓咪，是她唯一的慰藉，
+
+無聊的日子，一直到某天才終於有了改變。
+==四、重要類別==
+*[[:分類:角色|角色]]
+*[[:分類:貓|貓]]
+==五、故事連結==
+[https://dreammmeow.blogspot.com/2022/01/ep1.html?fbclid=IwAR24UYkIKUxUdpv2Tu-WspeGxzL0y-d4TOL8WgA-B2V5jkYwiNVYzJC5EuA][https://dreammmeow.blogspot.com/ 黃樑一貓]</text>
+      <sha1>f4dsjhmcbdl2wwq472l32789n5dgv2y</sha1>
+    </revision>
+    <revision>
+      <id>193</id>
+      <parentid>192</parentid>
+      <timestamp>2022-01-04T12:15:34Z</timestamp>
+      <contributor>
+        <username>Happyday</username>
+        <id>5</id>
+      </contributor>
+      <comment>/* 四、重要類別 */</comment>
+      <origin>193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2660" sha1="egt8gobdiq526wsi45cneyju1rh3k1c" xml:space="preserve">
+==一、介紹==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+==二、創作發想==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+
+這個故事總共有六個結局，每個結局都包含不同的議題，我們認為這些議題都很值得關注，也希望能讓聽眾在聽完以後平靜的思考其中的意義。
+==三、背景大要==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子。
+
+她的爸爸是個台商，常常到中國出差；媽媽是公司經理，加班也已經是常態了，
+
+也因此，她常常讀完書回家，家裡的電燈依舊是暗的。
+
+每天都過著一樣枯燥的生活，偶爾去看看寵物店的貓咪，是她唯一的慰藉，
+
+無聊的日子，一直到某天才終於有了改變。
+==四、重要類別==
+*[[:分類:角色|角色]]
+*[[:分類:貓|貓]]
+*[[:分類:地點|地點]]
+
+==五、故事連結==
+[https://dreammmeow.blogspot.com/2022/01/ep1.html?fbclid=IwAR24UYkIKUxUdpv2Tu-WspeGxzL0y-d4TOL8WgA-B2V5jkYwiNVYzJC5EuA][https://dreammmeow.blogspot.com/ 黃樑一貓]</text>
+      <sha1>egt8gobdiq526wsi45cneyju1rh3k1c</sha1>
+    </revision>
+    <revision>
+      <id>194</id>
+      <parentid>193</parentid>
+      <timestamp>2022-01-04T12:16:20Z</timestamp>
+      <contributor>
+        <username>Happyday</username>
+        <id>5</id>
+      </contributor>
+      <comment>/* 四、重要類別 */</comment>
+      <origin>194</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2633" sha1="r435alvjpgqrkqu9lpdcmvw3rmfbo1k" xml:space="preserve">
+==一、介紹==
+為國立陽明交通大學通識課程「多線互動敘事工作坊」第十組的期末作業計畫，作者為林季囷、游謦丞、翁宥潔。
+==二、創作發想==
+我們決定以互動式廣播劇的方式呈現，原因有以下幾點。
+
+第一點：我們發現，在這個忙碌的時代中，大家每天都透過眼睛接收大量的資訊、閱讀大量的文本，考試工作總是少不了閱讀，這往往令眼睛感到十分疲勞。因此如果能透過聲音傳達故事，讓人們可以在車上、在休息時聆聽，不但眼睛能短暫休息，也更能靜下心欣賞這個作品。
+
+第二點：小組成員都對[https://underbloodment.firstory.io/ 「輕描淡血」]這個廣播節目有著極深的喜愛，即使過了許久仍然對其中的故事印象深刻。因此，我們想要創作一個類似的作品，透過聲音和文字感動人心。最後，不同於一般廣播劇，本作品的特色是聽眾能操控劇情走向，隨著不同的選擇可以有不一樣的經歷。
+
+決定了作品的形式，接著是內容的部分。經過討論後，組員們最後決議製作作品有幾個要素：「輕鬆聆聽、溫暖人心、發人深省」，且因為本作品主要是設計為聽眾們填補閒暇時間用，因此不過長、複雜或燒腦，大約5到10分鐘可以聽完一個支線，是一個隨處隨地都可以聆聽的溫暖小品。
+
+我們也希望作品能帶給聽眾的不只是溫暖的小故事，還有一些我們想傳達的理念。經過討論後，最後決定將作品的核心觀念設定為「愛護動物」、「以認養代替購買」、「養寵物要負責」，故事的書寫也是圍繞此展開。
+
+這個故事總共有六個結局，每個結局都包含不同的議題，我們認為這些議題都很值得關注，也希望能讓聽眾在聽完以後平靜的思考其中的意義。
+==三、背景大要==
+小瑜是一個18歲的高三生，學測在即，她每天身陷在水深火熱的考前日子。
+
+她的爸爸是個台商，常常到中國出差；媽媽是公司經理，加班也已經是常態了，
+
+也因此，她常常讀完書回家，家裡的電燈依舊是暗的。
+
+每天都過著一樣枯燥的生活，偶爾去看看寵物店的貓咪，是她唯一的慰藉，
+
+無聊的日子，一直到某天才終於有了改變。
+==四、重要類別==
+*[[:分類:角色|角色]]
+*[[:分類:貓|貓]]
+
+==五、故事連結==
+[https://dreammmeow.blogspot.com/2022/01/ep1.html?fbclid=IwAR24UYkIKUxUdpv2Tu-WspeGxzL0y-d4TOL8WgA-B2V5jkYwiNVYzJC5EuA][https://dreammmeow.blogspot.com/ 黃樑一貓]</text>
+      <sha1>r435alvjpgqrkqu9lpdcmvw3rmfbo1k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>數學老師</title>
+    <ns>0</ns>
+    <id>40</id>
+    <revision>
+      <id>136</id>
+      <timestamp>2022-01-02T18:19:32Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>建立內容為「=== 簡述 ===  === 後設資料 === 年齡： 性別： 個性： 生日： 星座： 外貌： 職業：」的新頁面</comment>
+      <origin>136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="106" sha1="cke7od07b671az2fvw5jgq30v49lxfq" xml:space="preserve">=== 簡述 ===
+
+=== 後設資料 ===
+年齡：
+性別：
+個性：
+生日：
+星座：
+外貌：
+職業：</text>
+      <sha1>cke7od07b671az2fvw5jgq30v49lxfq</sha1>
+    </revision>
+    <revision>
+      <id>137</id>
+      <parentid>136</parentid>
+      <timestamp>2022-01-02T18:24:56Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="304" sha1="fviorfps8x78acpk8t7w1asjdzhjqmv" xml:space="preserve">=== 簡述 ===
+
+=== 後設資料 ===
+年齡：31歲
+
+性別：女
+
+個性：對學生很好，有教學熱忱，但字跡潦草，講話速度很快。
+
+生日：6月8日
+
+星座：雙子座
+
+血型：O型
+
+外貌：皮膚白皙、有瀏海、眼睛很大。
+
+職業：老師
+
+興趣：逛街、喝咖啡</text>
+      <sha1>fviorfps8x78acpk8t7w1asjdzhjqmv</sha1>
+    </revision>
+    <revision>
+      <id>138</id>
+      <parentid>137</parentid>
+      <timestamp>2022-01-02T18:29:06Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 簡述 */</comment>
+      <origin>138</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="588" sha1="fntknp2k62rlgiq09s3vmd1t16w4w73" xml:space="preserve">=== 簡述 ===
+小瑜的數學老師，因為長的很漂亮，而且對學生很好，所以在學生中的人氣很高。
+
+但由於小瑜的數學比較不好，加上老師的語速快、字比較奔放，讓她常常聽不懂課。
+
+也因此讓小瑜在這天面臨要不要睡覺的選擇。
+
+=== 後設資料 ===
+年齡：29歲
+
+性別：女
+
+個性：對學生很好，有教學熱忱，但字跡潦草，講話速度很快。
+
+生日：6月8日
+
+星座：雙子座
+
+血型：O型
+
+外貌：皮膚白皙、有瀏海、眼睛很大。
+
+職業：老師
+
+興趣：逛街、喝咖啡</text>
+      <sha1>fntknp2k62rlgiq09s3vmd1t16w4w73</sha1>
+    </revision>
+    <revision>
+      <id>139</id>
+      <parentid>138</parentid>
+      <timestamp>2022-01-02T18:29:33Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>139</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="597" sha1="p1fbz1z4wb2y4zq765bn6dc2o4nztu4" xml:space="preserve">=== 簡述 ===
+小瑜的數學老師，因為長的很漂亮，而且對學生很好，所以在學生中的人氣很高。
+
+但由於小瑜的數學比較不好，加上老師的語速快、字比較奔放，讓她常常聽不懂課。
+
+也因此讓小瑜在這天面臨要不要睡覺的選擇。
+
+=== 後設資料 ===
+年齡：29歲
+
+性別：女
+
+個性：對學生很好，有教學熱忱，但字跡潦草，講話速度很快。
+
+生日：6月8日
+
+星座：雙子座
+
+血型：O型
+
+外貌：皮膚白皙、短髮、有瀏海、眼睛很大。
+
+職業：老師
+
+興趣：逛街、喝咖啡</text>
+      <sha1>p1fbz1z4wb2y4zq765bn6dc2o4nztu4</sha1>
+    </revision>
+    <revision>
+      <id>141</id>
+      <parentid>139</parentid>
+      <timestamp>2022-01-02T18:34:56Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 簡述 */</comment>
+      <origin>141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="635" sha1="7d3hyb2olipkp16ekl12hkmvc04ldyp" xml:space="preserve">=== 簡述 ===
+小瑜的數學老師，因為長的很漂亮，而且對學生很好，所以在學生中的人氣很高。
+
+但由於小瑜的數學比較不好，加上老師的語速快、字比較奔放，讓她常常聽不懂課。
+
+也因此讓小瑜在這天面臨要不要睡覺的選擇。
+[[檔案:老師示意圖.jpg|縮圖]]
+
+=== 後設資料 ===
+年齡：29歲
+
+性別：女
+
+個性：對學生很好，有教學熱忱，但字跡潦草，講話速度很快。
+
+生日：6月8日
+
+星座：雙子座
+
+血型：O型
+
+外貌：皮膚白皙、短髮、有瀏海、眼睛很大。
+
+職業：老師
+
+興趣：逛街、喝咖啡</text>
+      <sha1>7d3hyb2olipkp16ekl12hkmvc04ldyp</sha1>
+    </revision>
+    <revision>
+      <id>142</id>
+      <parentid>141</parentid>
+      <timestamp>2022-01-02T18:35:33Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="652" sha1="3w3fh8vaxu8t5xxx1552defl0it2i30" xml:space="preserve">=== 簡述 ===
+小瑜的數學老師，因為長的很漂亮，而且對學生很好，所以在學生中的人氣很高。
+
+但由於小瑜的數學比較不好，加上老師的語速快、字比較奔放，讓她常常聽不懂課。
+
+也因此讓小瑜在這天面臨要不要睡覺的選擇。
+[[檔案:老師示意圖.jpg|縮圖|老師示意圖]]
+
+
+=== 後設資料 ===
+年齡：29歲
+
+性別：女
+
+個性：對學生很好，有教學熱忱，但字跡潦草，講話速度很快。
+
+生日：6月8日
+
+星座：雙子座
+
+血型：O型
+
+外貌：皮膚白皙、短髮、有瀏海、眼睛很大。
+
+職業：老師
+
+興趣：逛街、喝咖啡</text>
+      <sha1>3w3fh8vaxu8t5xxx1552defl0it2i30</sha1>
+    </revision>
+    <revision>
+      <id>143</id>
+      <parentid>142</parentid>
+      <timestamp>2022-01-02T18:38:54Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>143</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="675" sha1="dqwd1h1k8pf529fcz40p8xp1fyas8ry" xml:space="preserve">=== 簡述 ===
+小瑜的數學老師，因為長的很漂亮，而且對學生很好，所以在學生中的人氣很高。
+
+但由於小瑜的數學比較不好，加上老師的語速快、字比較奔放，讓她常常聽不懂課。
+
+也因此讓小瑜在這天面臨要不要睡覺的選擇。
+[[檔案:老師示意圖.jpg|縮圖|老師示意圖]]
+
+
+=== 後設資料 ===
+年齡：29歲
+
+性別：女
+
+個性：對學生很好，有教學熱忱，但字跡潦草，講話速度很快。
+
+生日：6月8日
+
+星座：雙子座
+
+血型：O型
+
+外貌：皮膚白皙、短髮、有瀏海、眼睛很大。
+
+職業：老師
+
+興趣：逛街、喝咖啡
+
+
+
+[[Category:角色]]</text>
+      <sha1>dqwd1h1k8pf529fcz40p8xp1fyas8ry</sha1>
+    </revision>
+    <revision>
+      <id>172</id>
+      <parentid>143</parentid>
+      <timestamp>2022-01-02T20:21:01Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="695" sha1="484hsx610cp1z6hkhciv7ql4nbhy16r" xml:space="preserve">=== 簡述 ===
+小瑜的數學老師，因為長的很漂亮，而且對學生很好，所以在學生中的人氣很高。
+
+但由於小瑜的數學比較不好，加上老師的語速快、字比較奔放，讓她常常聽不懂課。
+
+也因此讓小瑜在這天面臨要不要睡覺的選擇。
+[[檔案:老師示意圖.jpg|縮圖|老師示意圖]]
+
+
+=== 後設資料 ===
+年齡：29歲
+
+性別：女
+
+個性：對學生很好，有教學熱忱，但字跡潦草，講話速度很快。
+
+生日：6月8日
+
+星座：雙子座
+
+血型：O型
+
+外貌：皮膚白皙、短髮、有瀏海、眼睛很大。
+
+職業：老師
+
+興趣：逛街、喝咖啡
+
+出現片段：1、7
+
+[[Category:角色]]</text>
+      <sha1>484hsx610cp1z6hkhciv7ql4nbhy16r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:老師示意圖.jpg</title>
+    <ns>6</ns>
+    <id>41</id>
+    <revision>
+      <id>140</id>
+      <timestamp>2022-01-02T18:34:49Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15" sha1="49naxahbp4xqyuqlk2okusdu2f80f69" xml:space="preserve">老師示意圖</text>
+      <sha1>49naxahbp4xqyuqlk2okusdu2f80f69</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>王炳宇</title>
+    <ns>0</ns>
+    <id>42</id>
+    <revision>
+      <id>146</id>
+      <timestamp>2022-01-02T18:45:53Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>建立內容為「=== 簡述 === [[劉雯]]的未婚夫，兩人同居。他沒有特別喜歡小動物，但他十分疼愛他的女友。  父母都較為嚴格，總會要求成…」的新頁面</comment>
+      <origin>146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="749" sha1="1581v5d9kpt5osui7bno9uiepucbb36" xml:space="preserve">=== 簡述 ===
+[[劉雯]]的未婚夫，兩人同居。他沒有特別喜歡小動物，但他十分疼愛他的女友。
+
+父母都較為嚴格，總會要求成績，
+即使他很努力，父母總是覺得不夠好，
+因此求學階段，花了非常多的時間在讀書，
+希望能得到父母的認同，
+所以他總是專注在自己的課業上，
+身邊的好友並不多，也對身邊以外的人事物較冷漠。
+不過也因為身邊的好友不多，使他更珍惜周遭的人，
+
+
+
+=== 後設資料 ===
+年齡：32歲
+
+性別：男
+
+個性：對身邊的人非常重視，在親近的人身邊也總是格外溫柔。
+
+生日：11月12日
+
+星座：天蠍座
+
+血型：O型
+
+外貌：
+
+職業：
+
+興趣：
+
+
+
+[[Category:角色]]</text>
+      <sha1>1581v5d9kpt5osui7bno9uiepucbb36</sha1>
+    </revision>
+    <revision>
+      <id>147</id>
+      <parentid>146</parentid>
+      <timestamp>2022-01-02T18:55:35Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="884" sha1="3wb37fsi97nzrxjpmvjno943spkco0v" xml:space="preserve">=== 簡述 ===
+[[劉雯]]的未婚夫，兩人同居。
+
+他沒有特別喜歡小動物，但十分疼愛他的女友。
+
+他的父母都很嚴格，從小到大，他們總會要求他的成績，即使他很努力，父母還是覺得不夠好。
+
+因此求學階段時，為了能得到父母的認同，他花了非常多的時間在讀書，
+
+所以他總是專注在自己的課業上，身邊的好友並不多，也對身邊以外的人事物較冷漠。
+
+不過也因為身邊的好友不多，使他更珍惜周遭的人，
+
+
+
+
+=== 後設資料 ===
+年齡：32歲
+
+性別：男
+
+個性：對身邊的人非常重視，在親近的人身邊也總是格外溫柔，但對其他事務比較冷漠。
+
+生日：11月12日
+
+星座：天蠍座
+
+血型：O型
+
+外貌：戴方框眼鏡，高高瘦瘦的
+
+職業：出版社編輯
+
+興趣：看書、聽音樂
+
+
+
+[[Category:角色]]</text>
+      <sha1>3wb37fsi97nzrxjpmvjno943spkco0v</sha1>
+    </revision>
+    <revision>
+      <id>149</id>
+      <parentid>147</parentid>
+      <timestamp>2022-01-02T18:56:26Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>149</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="944" sha1="n8dnokr6n9gk374mj8p8f0qfqkaxxoz" xml:space="preserve">=== 簡述 ===
+[[劉雯]]的未婚夫，兩人同居。
+
+他沒有特別喜歡小動物，但十分疼愛他的女友。
+
+他的父母都很嚴格，從小到大，他們總會要求他的成績，即使他很努力，父母還是覺得不夠好。
+
+因此求學階段時，為了能得到父母的認同，他花了非常多的時間在讀書，
+
+所以他總是專注在自己的課業上，身邊的好友並不多，也對身邊以外的人事物較冷漠。
+
+不過也因為身邊的好友不多，使他更珍惜周遭的人，
+[[檔案:王炳宇示意圖.jpg|縮圖|王炳宇示意圖]]
+
+
+
+
+=== 後設資料 ===
+年齡：32歲
+
+性別：男
+
+個性：對身邊的人非常重視，在親近的人身邊也總是格外溫柔，但對其他事務比較冷漠。
+
+生日：11月12日
+
+星座：天蠍座
+
+血型：O型
+
+外貌：戴方框眼鏡，高高瘦瘦的
+
+職業：出版社編輯
+
+興趣：看書、聽音樂
+
+
+
+[[Category:角色]]</text>
+      <sha1>n8dnokr6n9gk374mj8p8f0qfqkaxxoz</sha1>
+    </revision>
+    <revision>
+      <id>150</id>
+      <parentid>149</parentid>
+      <timestamp>2022-01-02T18:57:00Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="940" sha1="q5jjxkqksvonthe4hzi5fq5u0yr8hz9" xml:space="preserve">=== 簡述 ===
+[[劉雯]]的未婚夫，兩人同居。[[檔案:王炳宇示意圖.jpg|縮圖|王炳宇示意圖]]他沒有特別喜歡小動物，但十分疼愛他的女友。
+
+他的父母都很嚴格，從小到大，他們總會要求他的成績，即使他很努力，父母還是覺得不夠好。
+
+因此求學階段時，為了能得到父母的認同，他花了非常多的時間在讀書，
+
+所以他總是專注在自己的課業上，身邊的好友並不多，也對身邊以外的人事物較冷漠。
+
+不過也因為身邊的好友不多，使他更珍惜周遭的人，
+
+
+
+=== 後設資料 ===
+年齡：32歲
+
+性別：男
+
+個性：對身邊的人非常重視，在親近的人身邊也總是格外溫柔，但對其他事務比較冷漠。
+
+生日：11月12日
+
+星座：天蠍座
+
+血型：O型
+
+外貌：戴方框眼鏡，高高瘦瘦的
+
+職業：出版社編輯
+
+興趣：看書、聽音樂
+
+
+
+[[Category:角色]]</text>
+      <sha1>q5jjxkqksvonthe4hzi5fq5u0yr8hz9</sha1>
+    </revision>
+    <revision>
+      <id>171</id>
+      <parentid>150</parentid>
+      <timestamp>2022-01-02T20:18:31Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 後設資料 */</comment>
+      <origin>171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="964" sha1="trqkzldp0jepdsdd0m997no7xshngpd" xml:space="preserve">=== 簡述 ===
+[[劉雯]]的未婚夫，兩人同居。[[檔案:王炳宇示意圖.jpg|縮圖|王炳宇示意圖]]他沒有特別喜歡小動物，但十分疼愛他的女友。
+
+他的父母都很嚴格，從小到大，他們總會要求他的成績，即使他很努力，父母還是覺得不夠好。
+
+因此求學階段時，為了能得到父母的認同，他花了非常多的時間在讀書，
+
+所以他總是專注在自己的課業上，身邊的好友並不多，也對身邊以外的人事物較冷漠。
+
+不過也因為身邊的好友不多，使他更珍惜周遭的人，
+
+
+
+=== 後設資料 ===
+年齡：32歲
+
+性別：男
+
+個性：對身邊的人非常重視，在親近的人身邊也總是格外溫柔，但對其他事務比較冷漠。
+
+生日：11月12日
+
+星座：天蠍座
+
+血型：O型
+
+外貌：戴方框眼鏡，高高瘦瘦的
+
+職業：出版社編輯
+
+興趣：看書、聽音樂
+
+出現片段：6、7、8
+
+[[Category:角色]]</text>
+      <sha1>trqkzldp0jepdsdd0m997no7xshngpd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:王炳宇示意圖.jpg</title>
+    <ns>6</ns>
+    <id>43</id>
+    <revision>
+      <id>148</id>
+      <timestamp>2022-01-02T18:56:08Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" sha1="cyyn3i6bbtdmxt4zgu8wobyzz99kp7r" xml:space="preserve">王炳宇示意圖</text>
+      <sha1>cyyn3i6bbtdmxt4zgu8wobyzz99kp7r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>劉雯</title>
+    <ns>0</ns>
+    <id>44</id>
+    <revision>
+      <id>151</id>
+      <timestamp>2022-01-02T18:58:26Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>建立內容為「 ===簡述=== [[王炳宇|王炳宇的未婚妻]]  ===後設資料=== 年齡：32歲  性別：男  個性：對身邊的人非常重視，在親近的人身邊…」的新頁面</comment>
+      <origin>151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="372" sha1="lvcecp6zqja2m1snxvtrdd1lpt6jzuo" xml:space="preserve">
+===簡述===
+[[王炳宇|王炳宇的未婚妻]]
+
+===後設資料===
+年齡：32歲
+
+性別：男
+
+個性：對身邊的人非常重視，在親近的人身邊也總是格外溫柔，但對其他事務比較冷漠。
+
+生日：11月12日
+
+星座：天蠍座
+
+血型：O型
+
+外貌：戴方框眼鏡，高高瘦瘦的
+
+職業：出版社編輯
+
+興趣：看書、聽音樂</text>
+      <sha1>lvcecp6zqja2m1snxvtrdd1lpt6jzuo</sha1>
+    </revision>
+    <revision>
+      <id>152</id>
+      <parentid>151</parentid>
+      <timestamp>2022-01-02T19:00:26Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>152</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="368" sha1="sxk87wm4e6s022k8iqohn5ayor1azzp" xml:space="preserve">
+===簡述===
+[[王炳宇]]的未婚妻，是一名網路作家，常去公園閒晃尋找靈感，有時看到流浪貓就會買一些飼料餵食牠們。
+
+===後設資料===
+年齡：28歲
+
+性別：女
+
+個性：溫暖、善良、喜歡小動物
+
+生日：1月12日
+
+星座：水瓶座
+
+血型：AB型
+
+外貌：
+
+職業：網路作家
+
+興趣：看書、聽音樂</text>
+      <sha1>sxk87wm4e6s022k8iqohn5ayor1azzp</sha1>
+    </revision>
+    <revision>
+      <id>153</id>
+      <parentid>152</parentid>
+      <timestamp>2022-01-02T19:02:25Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>153</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="791" sha1="9z1ht2577hxm4hwdrrwaq7ijn7r6dnm" xml:space="preserve">
+===簡述===
+[[王炳宇]]的未婚妻，是一名網路作家，常去公園閒晃尋找靈感，有時看到流浪貓就會買一些飼料餵食牠們。
+
+小時候家裡養了一隻黑狗，陪著她一起長大，
+
+讓她從小就喜歡動物，也造就了她溫暖善良的個性。
+
+因為個性比較溫柔且心思細膩，常常是朋友的垃圾桶，提供朋友情感上的支持。
+
+這也是她後來成為網路作家的原因之一，
+
+她喜歡觀察生活、從生活周遭發現一些細微的美好，
+
+並將其化為文字，溫暖每一個讀者。
+
+===後設資料===
+年齡：28歲
+
+性別：女
+
+個性：溫暖、善良、喜歡小動物
+
+生日：1月30日
+
+星座：水瓶座
+
+血型：AB型
+
+外貌：
+
+職業：網路作家
+
+興趣：創作、看書、散步</text>
+      <sha1>9z1ht2577hxm4hwdrrwaq7ijn7r6dnm</sha1>
+    </revision>
+    <revision>
+      <id>155</id>
+      <parentid>153</parentid>
+      <timestamp>2022-01-02T19:03:40Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>155</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="845" sha1="fuvql52y2je03zuaa9rj9rdig1x2dqh" xml:space="preserve">[[檔案:劉雯示意圖.jpg|縮圖|劉雯示意圖]]
+
+===簡述===
+[[王炳宇]]的未婚妻，是一名網路作家，常去公園閒晃尋找靈感，有時看到流浪貓就會買一些飼料餵食牠們。
+
+小時候家裡養了一隻黑狗，陪著她一起長大，
+
+讓她從小就喜歡動物，也造就了她溫暖善良的個性。
+
+因為個性比較溫柔且心思細膩，常常是朋友的垃圾桶，提供朋友情感上的支持。
+
+這也是她後來成為網路作家的原因之一，
+
+她喜歡觀察生活、從生活周遭發現一些細微的美好，
+
+並將其化為文字，溫暖每一個讀者。
+
+===後設資料===
+年齡：28歲
+
+性別：女
+
+個性：溫暖、善良、喜歡小動物
+
+生日：1月30日
+
+星座：水瓶座
+
+血型：AB型
+
+外貌：
+
+職業：網路作家
+
+興趣：創作、看書、散步</text>
+      <sha1>fuvql52y2je03zuaa9rj9rdig1x2dqh</sha1>
+    </revision>
+    <revision>
+      <id>156</id>
+      <parentid>155</parentid>
+      <timestamp>2022-01-02T19:05:29Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="881" sha1="8y02h3gjhr29sgs2a0civ4egrdl8180" xml:space="preserve">[[檔案:劉雯示意圖.jpg|縮圖|劉雯示意圖]]
+
+===簡述===
+[[王炳宇]]的未婚妻，是一名網路作家，常去公園閒晃尋找靈感，有時看到流浪貓就會買一些飼料餵食牠們。
+
+小時候家裡養了一隻黑狗，陪著她一起長大，
+
+讓她從小就喜歡動物，也造就了她溫暖善良的個性。
+
+因為個性比較溫柔且心思細膩，常常是朋友的垃圾桶，提供朋友情感上的支持。
+
+這也是她後來成為網路作家的原因之一，
+
+她喜歡觀察生活、從生活周遭發現一些細微的美好，
+
+並將其化為文字，溫暖每一個讀者。
+
+===後設資料===
+年齡：28歲
+
+性別：女
+
+個性：溫暖、善良、喜歡小動物
+
+生日：1月30日
+
+星座：水瓶座
+
+血型：AB型
+
+外貌：皮膚白皙，中長髮，有氣質
+
+職業：網路作家
+
+興趣：創作、看書、散步</text>
+      <sha1>8y02h3gjhr29sgs2a0civ4egrdl8180</sha1>
+    </revision>
+    <revision>
+      <id>157</id>
+      <parentid>156</parentid>
+      <timestamp>2022-01-02T19:06:50Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="905" sha1="p84fgzt252c95tv21szwjbwq8xi55d8" xml:space="preserve">[[檔案:劉雯示意圖.jpg|縮圖|劉雯示意圖]]
+
+===簡述===
+
+[[王炳宇]]的未婚妻，是一名網路作家，常去公園閒晃尋找靈感，有時看到流浪貓就會買一些飼料餵食牠們。
+
+小時候家裡養了一隻黑狗，陪著她一起長大，
+
+讓她從小就喜歡動物，也造就了她溫暖善良的個性。
+
+因為個性比較溫柔且心思細膩，常常是朋友的垃圾桶，提供朋友情感上的支持。
+
+這也是她後來成為網路作家的原因之一，
+
+她喜歡觀察生活、從生活周遭發現一些細微的美好，
+
+並將其化為文字，溫暖每一個讀者。
+
+===後設資料===
+年齡：28歲
+
+性別：女
+
+個性：溫暖、善良、喜歡小動物
+
+生日：1月30日
+
+星座：水瓶座
+
+血型：AB型
+
+外貌：皮膚白皙，中長髮，有氣質
+
+職業：網路作家
+
+興趣：創作、看書、散步
+
+
+
+[[Category:角色]]</text>
+      <sha1>p84fgzt252c95tv21szwjbwq8xi55d8</sha1>
+    </revision>
+    <revision>
+      <id>170</id>
+      <parentid>157</parentid>
+      <timestamp>2022-01-02T20:17:52Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 簡述 */</comment>
+      <origin>170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="929" sha1="q90t635kb6105nhg8hlu7ifym6z02kp" xml:space="preserve">[[檔案:劉雯示意圖.jpg|縮圖|劉雯示意圖]]
+
+===簡述===
+
+[[王炳宇]]的未婚妻，是一名網路作家，常去公園閒晃尋找靈感，有時看到流浪貓就會買一些飼料餵食牠們。
+
+小時候家裡養了一隻黑狗，陪著她一起長大，
+
+讓她從小就喜歡動物，也造就了她溫暖善良的個性。
+
+因為個性比較溫柔且心思細膩，常常是朋友的垃圾桶，提供朋友情感上的支持。
+
+這也是她後來成為網路作家的原因之一，
+
+她喜歡觀察生活、從生活周遭發現一些細微的美好，
+
+並將其化為文字，溫暖每一個讀者。
+
+===後設資料===
+年齡：28歲
+
+性別：女
+
+個性：溫暖、善良、喜歡小動物
+
+生日：1月30日
+
+星座：水瓶座
+
+血型：AB型
+
+外貌：皮膚白皙，中長髮，有氣質
+
+職業：網路作家
+
+興趣：創作、看書、散步
+
+出現片段：6、7、8
+
+[[Category:角色]]</text>
+      <sha1>q90t635kb6105nhg8hlu7ifym6z02kp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:劉雯示意圖.jpg</title>
+    <ns>6</ns>
+    <id>45</id>
+    <revision>
+      <id>154</id>
+      <timestamp>2022-01-02T19:03:29Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15" sha1="019t83kb0x2hf9sncljaphsf9lb0okt" xml:space="preserve">劉雯示意圖</text>
+      <sha1>019t83kb0x2hf9sncljaphsf9lb0okt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>小櫻爸爸</title>
+    <ns>0</ns>
+    <id>46</id>
+    <revision>
+      <id>158</id>
+      <timestamp>2022-01-02T19:57:46Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>建立內容為「=== 簡述 === [[小櫻]]的爸爸   === 後設資料 === 年齡：37歲  性別：男  個性：  生日：9月14日  星座：處女座  血型：A型  外貌…」的新頁面</comment>
+      <origin>158</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="208" sha1="6p4c2mrdkb9fk963u3d6iqoyra6dqig" xml:space="preserve">=== 簡述 ===
+[[小櫻]]的爸爸
+
+
+=== 後設資料 ===
+年齡：37歲
+
+性別：男
+
+個性：
+
+生日：9月14日
+
+星座：處女座
+
+血型：A型
+
+外貌：
+
+職業：
+
+興趣：
+
+
+
+[[Category:角色]]</text>
+      <sha1>6p4c2mrdkb9fk963u3d6iqoyra6dqig</sha1>
+    </revision>
+    <revision>
+      <id>167</id>
+      <parentid>158</parentid>
+      <timestamp>2022-01-02T20:15:07Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>167</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="504" sha1="6smhs8a64igb1kzv3ywl5zon3d2tjdl" xml:space="preserve">=== 簡述 ===
+[[小櫻]]的爸爸，很寵老婆，是家裡的經濟支柱，
+
+因為[[小櫻媽媽]]懷孕了，
+
+由於害怕貓毛對即將到來的新生命有害，和小櫻媽媽討論後
+
+決議把變成貓後的[[小瑜(貓)]]送到收容所。
+
+
+
+=== 後設資料 ===
+年齡：37歲
+
+性別：男
+
+個性：實際、家庭優先
+
+生日：9月14日
+
+星座：處女座
+
+血型：A型
+
+外貌：體型壯碩但長相斯文
+
+職業：業務
+
+興趣：打高爾夫、喝酒
+
+
+
+[[Category:角色]]</text>
+      <sha1>6smhs8a64igb1kzv3ywl5zon3d2tjdl</sha1>
+    </revision>
+    <revision>
+      <id>168</id>
+      <parentid>167</parentid>
+      <timestamp>2022-01-02T20:16:42Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 後設資料 */</comment>
+      <origin>168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="520" sha1="ncjtijqi8k4qddiyto6824i8utwhbfh" xml:space="preserve">=== 簡述 ===
+[[小櫻]]的爸爸，很寵老婆，是家裡的經濟支柱，
+
+因為[[小櫻媽媽]]懷孕了，
+
+由於害怕貓毛對即將到來的新生命有害，和小櫻媽媽討論後
+
+決議把變成貓後的[[小瑜(貓)]]送到收容所。
+
+
+
+=== 後設資料 ===
+年齡：37歲
+
+性別：男
+
+個性：實際、家庭優先
+
+生日：9月14日
+
+星座：處女座
+
+血型：A型
+
+外貌：體型壯碩但長相斯文
+
+職業：業務
+
+興趣：打高爾夫、喝酒
+
+出現片段：9
+
+[[Category:角色]]</text>
+      <sha1>ncjtijqi8k4qddiyto6824i8utwhbfh</sha1>
+    </revision>
+    <revision>
+      <id>178</id>
+      <parentid>168</parentid>
+      <timestamp>2022-01-02T20:36:00Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="587" sha1="kzkezskfqw13dggzfyufjpzg76661ph" xml:space="preserve">[[檔案:小櫻爸爸示意圖.jpg|縮圖|小櫻爸爸示意圖]]
+
+=== 簡述 ===
+[[小櫻]]的爸爸，很寵老婆，是家裡的經濟支柱，
+
+因為[[小櫻媽媽]]懷孕了，
+
+由於害怕貓毛對即將到來的新生命有害，和小櫻媽媽討論後
+
+決議把變成貓後的[[小瑜(貓)]]送到收容所。
+
+
+
+=== 後設資料 ===
+年齡：37歲
+
+性別：男
+
+個性：實際、家庭優先
+
+生日：9月14日
+
+星座：處女座
+
+血型：A型
+
+外貌：體型壯碩但長相斯文
+
+職業：業務
+
+興趣：打高爾夫、喝酒
+
+出現片段：9
+
+[[Category:角色]]</text>
+      <sha1>kzkezskfqw13dggzfyufjpzg76661ph</sha1>
+    </revision>
+    <revision>
+      <id>179</id>
+      <parentid>178</parentid>
+      <timestamp>2022-01-02T20:36:26Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 後設資料 */</comment>
+      <origin>179</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="mpoakpcujpp4sjh1ioqhkj8p526iwvt" xml:space="preserve">[[檔案:小櫻爸爸示意圖.jpg|縮圖|小櫻爸爸示意圖]]
+
+=== 簡述 ===
+[[小櫻]]的爸爸，很寵老婆，是家裡的經濟支柱，
+
+因為[[小櫻媽媽]]懷孕了，
+
+由於害怕貓毛對即將到來的新生命有害，和小櫻媽媽討論後
+
+決議把變成貓後的[[小瑜(貓)]]送到收容所。
+
+
+
+=== 後設資料 ===
+年齡：37歲
+
+性別：男
+
+個性：實際、家庭優先
+
+生日：9月14日
+
+星座：處女座
+
+血型：A型
+
+外貌：體型壯碩但長相斯文
+
+職業：業務
+
+興趣：打高爾夫、研究股票
+
+出現片段：9
+
+[[Category:角色]]</text>
+      <sha1>mpoakpcujpp4sjh1ioqhkj8p526iwvt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>小櫻媽媽</title>
+    <ns>0</ns>
+    <id>47</id>
+    <revision>
+      <id>159</id>
+      <timestamp>2022-01-02T19:59:08Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>建立內容為「=== 簡述 === [[小櫻]]的媽媽   === 後設資料 === 年齡：37歲  性別：女  個性：  生日：12月3日  星座：射手座  血型：B型  外貌…」的新頁面</comment>
+      <origin>159</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="208" sha1="skk49eudek7e2qy6fqtui17gncxu13m" xml:space="preserve">=== 簡述 ===
+[[小櫻]]的媽媽
+
+
+=== 後設資料 ===
+年齡：37歲
+
+性別：女
+
+個性：
+
+生日：12月3日
+
+星座：射手座
+
+血型：B型
+
+外貌：
+
+職業：
+
+興趣：
+
+
+
+[[Category:角色]]</text>
+      <sha1>skk49eudek7e2qy6fqtui17gncxu13m</sha1>
+    </revision>
+    <revision>
+      <id>169</id>
+      <parentid>159</parentid>
+      <timestamp>2022-01-02T20:17:02Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 後設資料 */</comment>
+      <origin>169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="224" sha1="2xygqvybmfnf6tozrqy1hp5vuvp3vjs" xml:space="preserve">=== 簡述 ===
+[[小櫻]]的媽媽
+
+
+=== 後設資料 ===
+年齡：37歲
+
+性別：女
+
+個性：
+
+生日：12月3日
+
+星座：射手座
+
+血型：B型
+
+外貌：
+
+職業：
+
+興趣：
+
+出現片段：9
+
+[[Category:角色]]</text>
+      <sha1>2xygqvybmfnf6tozrqy1hp5vuvp3vjs</sha1>
+    </revision>
+    <revision>
+      <id>185</id>
+      <parentid>169</parentid>
+      <timestamp>2022-01-03T02:59:59Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>185</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="627" sha1="10lc5j8t0b8wffb55qtvrdbscomj1s7" xml:space="preserve">=== 簡述 ===
+[[小櫻]]的媽媽，是當地小有名氣的蛋糕店老闆，最近剛懷了第二胎
+
+雖然也很喜歡小動物，甚至常常和小櫻一起去照顧流浪貓，
+
+但為了即將到來的新成員安全，和小櫻爸爸一起決定要把變成貓的小瑜送到收容所。
+
+
+
+=== 後設資料 ===
+年齡：37歲
+
+性別：女
+
+個性：理性、果斷
+
+生日：12月3日
+
+星座：射手座
+
+血型：B型
+[[檔案:小櫻媽媽示意圖.jpg|縮圖|小櫻媽媽示意圖]]
+外貌：短髮、皮膚白、鼻子挺
+
+職業：蛋糕店老闆
+
+興趣：烹飪、烘焙
+
+出現片段：9
+
+[[Category:角色]]</text>
+      <sha1>10lc5j8t0b8wffb55qtvrdbscomj1s7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>小櫻</title>
+    <ns>0</ns>
+    <id>48</id>
+    <revision>
+      <id>160</id>
+      <timestamp>2022-01-02T20:00:46Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>建立內容為「=== 簡述 ===    === 後設資料 === 年齡：9歲  性別：女  個性：  生日：3月15日  星座：雙魚座  血型：O型  外貌：  職業：小學…」的新頁面</comment>
+      <origin>160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="1g485e2nihxc7wlgk2nhbz2gb40x3cq" xml:space="preserve">=== 簡述 ===
+
+
+
+=== 後設資料 ===
+年齡：9歲
+
+性別：女
+
+個性：
+
+生日：3月15日
+
+星座：雙魚座
+
+血型：O型
+
+外貌：
+
+職業：小學生
+
+興趣：
+
+
+
+[[Category:角色]]</text>
+      <sha1>1g485e2nihxc7wlgk2nhbz2gb40x3cq</sha1>
+    </revision>
+    <revision>
+      <id>173</id>
+      <parentid>160</parentid>
+      <timestamp>2022-01-02T20:23:09Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="323" sha1="8awln93bgffwzv7irizjbohmyjt6het" xml:space="preserve">=== 簡述 ===
+
+平常會幫助流浪貓，領養了變成貓的[[小瑜(貓)]]。
+
+=== 後設資料 ===
+年齡：9歲
+
+性別：女
+
+個性：喜愛小動物、善良
+
+生日：3月15日
+
+星座：雙魚座
+
+血型：O型
+
+外貌：
+
+職業：小學生
+
+興趣：和小動物玩
+
+出現片段：9、10
+
+[[Category:角色]]</text>
+      <sha1>8awln93bgffwzv7irizjbohmyjt6het</sha1>
+    </revision>
+    <revision>
+      <id>180</id>
+      <parentid>173</parentid>
+      <timestamp>2022-01-03T02:41:13Z</timestamp>
+      <contributor>
+        <ip>123.193.209.234</ip>
+      </contributor>
+      <origin>180</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="627" sha1="diphx776ex3c6shapq6y3r62no0dr5b" xml:space="preserve">=== 簡述 ===
+
+平常會幫助流浪貓，常常帶食物去餵食牠們。
+
+在一次餵食中遇到了變成貓昏倒的[[小瑜(貓)]]，並救了她，把她帶回家收養了她。
+
+但後來因為媽媽懷孕，小櫻爸媽後決定將變成貓的小瑜送走，以免影響新的家庭成員。
+
+小櫻雖然曾反對過，但最後還是被說服了。
+
+=== 後設資料 ===
+年齡：10歲
+
+性別：女
+
+個性：喜愛小動物、善良
+
+生日：3月15日
+
+星座：雙魚座
+
+血型：O型
+
+外貌：皮膚很白、中長髮
+
+職業：小學生
+
+興趣：和小動物玩
+
+出現片段：9、10
+
+[[Category:角色]]</text>
+      <sha1>diphx776ex3c6shapq6y3r62no0dr5b</sha1>
+    </revision>
+    <revision>
+      <id>182</id>
+      <parentid>180</parentid>
+      <timestamp>2022-01-03T02:42:26Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="682" sha1="3m2tii0u8oe5ncsc9ibi7crh69m6agu" xml:space="preserve">[[檔案:小櫻示意圖.jpg|縮圖|小櫻示意圖]]
+
+=== 簡述 ===
+
+平常會幫助流浪貓，常常帶食物去餵食牠們。
+
+在一次餵食中遇到了變成貓昏倒的[[小瑜(貓)]]，並救了她，把她帶回家收養了她。
+
+但後來因為媽媽懷孕，小櫻爸媽後決定將變成貓的小瑜送走，以免影響新的家庭成員。
+
+小櫻雖然曾反對過，但最後還是被說服了。
+
+=== 後設資料 ===
+年齡：10歲
+
+性別：女
+
+個性：喜愛小動物、善良
+
+生日：3月15日
+
+星座：雙魚座
+
+血型：O型
+
+外貌：皮膚很白、中長髮
+
+職業：小學生
+
+興趣：和小動物玩
+
+出現片段：9、10
+
+[[Category:角色]]</text>
+      <sha1>3m2tii0u8oe5ncsc9ibi7crh69m6agu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>小瑜爸爸</title>
+    <ns>0</ns>
+    <id>49</id>
+    <revision>
+      <id>161</id>
+      <timestamp>2022-01-02T20:02:48Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>建立內容為「=== 簡述 === 小瑜的爸爸   === 後設資料 === 年齡：49歲  性別：男  個性：  生日：2月24日  星座：雙魚座  血型：A型  外貌：…」的新頁面</comment>
+      <origin>161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="210" sha1="fwm3qiidwnm7nq6s62ldueiy5j7uagc" xml:space="preserve">=== 簡述 ===
+小瑜的爸爸
+
+
+=== 後設資料 ===
+年齡：49歲
+
+性別：男
+
+個性：
+
+生日：2月24日
+
+星座：雙魚座
+
+血型：A型
+
+外貌：
+
+職業：台商
+
+興趣：
+
+
+
+[[Category:角色]]</text>
+      <sha1>fwm3qiidwnm7nq6s62ldueiy5j7uagc</sha1>
+    </revision>
+    <revision>
+      <id>165</id>
+      <parentid>161</parentid>
+      <timestamp>2022-01-02T20:06:22Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="nm2e8sx3su36b8z9floj17kbofh7hpd" xml:space="preserve">=== 簡述 ===
+[[小瑜]]的爸爸
+
+
+=== 後設資料 ===
+年齡：49歲
+
+性別：男
+
+個性：
+
+生日：2月24日
+
+星座：雙魚座
+
+血型：A型
+
+外貌：
+
+職業：台商
+
+興趣：
+
+
+
+[[Category:角色]]</text>
+      <sha1>nm2e8sx3su36b8z9floj17kbofh7hpd</sha1>
+    </revision>
+    <revision>
+      <id>174</id>
+      <parentid>165</parentid>
+      <timestamp>2022-01-02T20:28:49Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 後設資料 */</comment>
+      <origin>174</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="538" sha1="o2jx1go7vi65orpk5zkxgsnydj5s5dx" xml:space="preserve">=== 簡述 ===
+[[小瑜]]的爸爸，因為在中國經商，經常不在台灣。
+
+也讓小瑜常常感到孤單，但他每次回去時都會帶禮物給小瑜，彌補沒辦法陪伴她的缺憾。
+
+因為人在中國，不會出現在故事中，但會透過小瑜得知他的存在。
+=== 後設資料 ===
+年齡：49歲
+
+性別：男
+
+個性：務實
+
+生日：2月24日
+
+星座：雙魚座
+
+血型：A型
+
+外貌：
+
+職業：台商
+
+興趣：釣魚、看籃球
+
+出現片段：無，僅透過[[小瑜]]提到
+
+[[Category:角色]]</text>
+      <sha1>o2jx1go7vi65orpk5zkxgsnydj5s5dx</sha1>
+    </revision>
+    <revision>
+      <id>176</id>
+      <parentid>174</parentid>
+      <timestamp>2022-01-02T20:33:48Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>176</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="644" sha1="rny6ry3diz996lxzfv9bnrbw31sr1hm" xml:space="preserve">[[檔案:小瑜爸爸示意圖.jpg|縮圖|小瑜爸爸示意圖]]
+
+=== 簡述 ===
+[[小瑜]]的爸爸，因為在中國經商，經常不在台灣。
+
+也讓小瑜常常感到孤單，但他每次回去時都會帶禮物給小瑜，彌補沒辦法陪伴她的缺憾。
+
+因為人在中國，不會出現在故事中，但會透過小瑜得知他的存在。
+=== 後設資料 ===
+年齡：49歲
+
+性別：男
+
+個性：務實、憨厚
+
+生日：2月24日
+
+星座：雙魚座
+
+血型：A型
+
+外貌：身高不高，長的很老實
+
+職業：台商
+
+興趣：釣魚、看籃球
+
+出現片段：無，僅透過[[小瑜]]提到
+
+[[Category:角色]]</text>
+      <sha1>rny6ry3diz996lxzfv9bnrbw31sr1hm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>小瑜媽媽</title>
+    <ns>0</ns>
+    <id>50</id>
+    <revision>
+      <id>166</id>
+      <timestamp>2022-01-02T20:09:07Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>建立內容為「=== 簡述 === [[小瑜]]的媽媽   === 後設資料 === 年齡：47歲  性別：女  個性：實際、容易心軟 (依據選擇會有不同的個性)  生日…」的新頁面</comment>
+      <origin>166</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" sha1="69h8ptqrqicqj4l910j1pvgipcw3sd3" xml:space="preserve">=== 簡述 ===
+[[小瑜]]的媽媽
+
+
+=== 後設資料 ===
+年齡：47歲
+
+性別：女
+
+個性：實際、容易心軟 (依據選擇會有不同的個性)
+
+生日：7月28日
+
+星座：獅子座
+
+血型：O型
+
+外貌：
+
+職業：外商公司的經理
+
+興趣：喝下午茶，逛街
+
+
+
+[[Category:角色]]</text>
+      <sha1>69h8ptqrqicqj4l910j1pvgipcw3sd3</sha1>
+    </revision>
+    <revision>
+      <id>187</id>
+      <parentid>166</parentid>
+      <timestamp>2022-01-03T03:12:04Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <comment>/* 簡述 */</comment>
+      <origin>187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1062" sha1="cddzmacvk8b9h2tv9wai0mwa3gn11ta" xml:space="preserve">=== 簡述 ===
+[[小瑜]]的媽媽，是個媒體公司的經理，常常加班到很晚，讓小瑜因此習慣了回到家自己一個人的生活。
+
+她是個獨立自主的女性，很有工作能力，常常受到主管與客戶的讚賞，
+
+但對於照顧家庭比較不擅長，她的丈夫常常出差，也讓她因此要扛起照顧小瑜的全部責任。
+
+她知道女兒常常沒有人陪伴，也知道她很想養一隻貓來陪她，但礙於家裡常常沒有人，一直覺得她們沒有時間照顧寵物。
+
+也因為這樣，在小瑜將[[箱箱]]帶回家後，
+
+工作壓力與家庭壓力同時迎向了她，讓她為了這件事跟小瑜吵了起來。
+
+
+
+=== 後設資料 ===
+年齡：47歲
+
+性別：女
+
+個性：實際、容易心軟 (依據選擇會有不同的個性)
+
+生日：7月28日
+
+星座：獅子座
+
+血型：O型
+[[檔案:小瑜媽媽示意圖.jpg|縮圖|小瑜媽媽示意圖]]
+外貌：中長髮、很瘦
+
+職業：媒體公司的經理
+
+興趣：喝下午茶，逛街
+
+出現片段：2、3、4
+
+[[Category:角色]]</text>
+      <sha1>cddzmacvk8b9h2tv9wai0mwa3gn11ta</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:小瑜爸爸示意圖.jpg</title>
+    <ns>6</ns>
+    <id>51</id>
+    <revision>
+      <id>175</id>
+      <timestamp>2022-01-02T20:31:06Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>175</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="iy9au59voy9s2y2na2jhsdzg70j0kpa" xml:space="preserve">小瑜爸爸示意圖</text>
+      <sha1>iy9au59voy9s2y2na2jhsdzg70j0kpa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:小櫻爸爸示意圖.jpg</title>
+    <ns>6</ns>
+    <id>52</id>
+    <revision>
+      <id>177</id>
+      <timestamp>2022-01-02T20:35:53Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="e9qu7y3e20bu7muiqvn2tk61ersk1g8" xml:space="preserve">小櫻爸爸示意圖</text>
+      <sha1>e9qu7y3e20bu7muiqvn2tk61ersk1g8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:小櫻示意圖.jpg</title>
+    <ns>6</ns>
+    <id>53</id>
+    <revision>
+      <id>181</id>
+      <timestamp>2022-01-03T02:42:07Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>181</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15" sha1="dg657h3o5wfw9ci437o3memike7f03a" xml:space="preserve">小櫻示意圖</text>
+      <sha1>dg657h3o5wfw9ci437o3memike7f03a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:小櫻媽媽示意圖.jpg</title>
+    <ns>6</ns>
+    <id>54</id>
+    <revision>
+      <id>184</id>
+      <timestamp>2022-01-03T02:55:53Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>184</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="myy5d4iq88drutioybz79arncatt8up" xml:space="preserve">小櫻媽媽示意圖</text>
+      <sha1>myy5d4iq88drutioybz79arncatt8up</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:小瑜媽媽示意圖.jpg</title>
+    <ns>6</ns>
+    <id>55</id>
+    <revision>
+      <id>186</id>
+      <timestamp>2022-01-03T03:03:26Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>186</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="fe49n13sghyhnxxd7i5lmiyal2q2fag" xml:space="preserve">小瑜媽媽示意圖</text>
+      <sha1>fe49n13sghyhnxxd7i5lmiyal2q2fag</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:小瑜示意圖.jpg</title>
+    <ns>6</ns>
+    <id>56</id>
+    <revision>
+      <id>188</id>
+      <timestamp>2022-01-03T03:21:13Z</timestamp>
+      <contributor>
+        <username>Jadsoder</username>
+        <id>4</id>
+      </contributor>
+      <origin>188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15" sha1="s6n7ths7n8zoqmcylcrp9xpyse6vjxj" xml:space="preserve">小瑜示意圖</text>
+      <sha1>s6n7ths7n8zoqmcylcrp9xpyse6vjxj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>檔案:小瑜(貓)示意圖.jpg</title>
+    <ns>6</ns>
+    <id>57</id>
+    <revision>
+      <id>195</id>
+      <timestamp>2022-01-06T08:26:59Z</timestamp>
+      <contributor>
+        <username>Q1317540161</username>
+        <id>3</id>
+      </contributor>
+      <origin>195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3" sha1="ijs06fcmn0krapccukbkuws7dc2d2ey" xml:space="preserve">無</text>
+      <sha1>ijs06fcmn0krapccukbkuws7dc2d2ey</sha1>
+    </revision>
+  </page>
+</mediawiki>
